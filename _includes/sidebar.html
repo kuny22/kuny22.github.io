@@ -1,0 +1,33 @@
+<div class="sidebar-logo">
+  <img src="{{ '/assets/images/浙江大学-logo.svg' | relative_url }}" alt="Logo">
+</div>
+
+<div class="lang-switch">
+  {% if page.lang == 'cn' %}
+    <a href="{{ '/' | relative_url }}">English</a>
+  {% else %}
+    <a href="{{ '/cn/' | relative_url }}">中文</a>
+  {% endif %}
+</div>
+
+<nav>
+  <ul class="nav-links">
+    {% if page.lang == 'cn' %}
+      <li><a href="/cn/">首页</a></li>
+      <li><a href="/cn/group.html">团队成员</a></li>
+      <li><a href="/cn/publications.html">研究成果</a></li>       
+      <li><a href="/cn/projects.html">科研项目</a></li>           
+      <li><a href="/cn/awards.html">获奖荣誉</a></li>
+      <li><a href="/cn/activities.html">学术活动</a></li>
+      <li><a href="/cn/teaching.html">教学活动</a></li>
+    {% else %}
+      <li><a href="/">Home</a></li>
+      <li><a href="/group.html">Group</a></li>
+      <li><a href="/publications.html">Achievements</a></li>      
+      <li><a href="/projects.html">Projects</a></li>
+      <li><a href="/awards.html">Awards</a></li>
+      <li><a href="/activities.html">Activities</a></li>
+      <li><a href="/teaching.html">Teaching</a></li>
+    {% endif %}
+  </ul>
+</nav>
