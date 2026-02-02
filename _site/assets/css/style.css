@@ -324,3 +324,190 @@ li {
     border-radius: 4px;
     display: inline-block;
 }
+
+/* 教学页面样式 */
+.course-list li {
+    margin-bottom: 15px;
+}
+
+.semester-info {
+    color: #666;
+    font-size: 0.95em;
+    margin-top: 4px;
+}
+
+/* 获奖页面样式 */
+/* 基础列表样式：去掉默认圆点，增加行间距 */
+.award-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 40px;
+}
+
+.award-list li {
+    margin-bottom: 12px;
+    line-height: 1.6;
+    display: flex;
+    /* 使用 Flex 布局让年份和文字对其 */
+    align-items: baseline;
+}
+
+/* 年份样式：固定宽度，加粗，深色 */
+.award-year {
+    font-weight: bold;
+    color: #000;
+    min-width: 60px;
+    /* 固定宽度，确保年份对其 */
+    margin-right: 15px;
+    flex-shrink: 0;
+    /* 防止年份被压缩 */
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+/* 奖项文本样式 */
+.award-text {
+    color: #333;
+}
+
+/* 针对特别重要的奖项（如人才帽子），可以加一个高亮类 */
+.highlight-award {
+    color: #c00;
+    /* 深红色高亮 */
+    font-weight: bold;
+}
+
+/* 课题页面样式 */
+/* 列表基础样式 */
+.simple-project-list li {
+    margin-bottom: 22px;
+    line-height: 1.6;
+}
+
+/* 第一行样式 */
+.proj-header {
+    font-size: 16px;
+    color: #222;
+}
+
+/* 类别/来源：加粗，用【】包裹显得更正式 */
+.proj-category {
+    font-weight: bold;
+    color: #000;
+    margin-right: 5px;
+}
+
+/* 项目名称：常规字体 */
+.proj-name {
+    font-weight: normal;
+    color: #333;
+}
+
+/* 第二行：元数据 (灰色) */
+.proj-meta {
+    font-size: 15px;
+    color: #666;
+    margin-top: 4px;
+}
+
+/* 经费高亮：深红 + 加粗 */
+.highlight-fund {
+    font-weight: bold;
+    color: #c00;
+    margin-right: 0px;
+}
+
+
+/* 团队页面样式 */
+/* 1. 外层容器：保持两列布局 */
+.team-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* 两列等宽 */
+    gap: 30px;
+    /* 卡片之间的间距 */
+    margin-bottom: 50px;
+}
+
+/* 手机端适配：单列 */
+@media (max-width: 768px) {
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* 2. 单个成员卡片：改为 Flex 布局 (左图右文) */
+.team-member {
+    display: flex;
+    /* 开启 Flexbox */
+    align-items: center;
+    /* 垂直居中 */
+    gap: 20px;
+    /* 图片和文字之间的距离 */
+    background: #fff;
+    /* 可选：给卡片加个白底 */
+    /* border: 1px solid #eee; 可选：加个淡淡的边框 */
+    /* padding: 15px;          可选：内边距 */
+    /* border-radius: 12px;    可选：卡片本身的圆角 */
+}
+
+/* 3. 照片样式：参考图中的圆角矩形 */
+.member-photo {
+    width: 140px;
+    /* 固定宽度 */
+    height: 140px;
+    /* 固定高度 */
+    object-fit: cover;
+    /* 保证图片不变形，自动裁剪 */
+    border-radius: 12px;
+    /* 【关键】圆角矩形，数值越大越圆 */
+    flex-shrink: 0;
+    /* 防止文字太多挤压图片 */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    /* 淡淡的阴影 */
+}
+
+/* 4. 右侧文字区域 */
+.member-info {
+    text-align: left;
+    /* 文字左对齐 */
+    flex-grow: 1;
+}
+
+/* 姓名：参考图中的蓝色 */
+.member-name {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0073e6;
+    /* 亮蓝色，类似参考图 */
+    margin-bottom: 8px;
+    line-height: 1.2;
+}
+
+/* 英文名补充 (可选) */
+.member-name span {
+    font-size: 16px;
+    color: #333;
+    font-weight: normal;
+    margin-left: 5px;
+}
+
+/* 身份 Role */
+.member-role {
+    font-size: 16px;
+    color: #222;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+/* 研究方向 */
+.member-interest {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.5;
+}
+
+/* 研究方向前面的小标签样式 */
+.interest-label {
+    font-weight: bold;
+    color: #444;
+}

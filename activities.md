@@ -1,24 +1,91 @@
 ---
 layout: default
-title: Professional Activities
+title: Activities
 lang: en
 ---
 
+<style>
+    .activity-list { margin-bottom: 40px; }
+    .activity-list li { margin-bottom: 15px; line-height: 1.6; }
+    
+    .talk-venue { display: block; color: #555; font-size: 0.95em; margin-top: 2px; }
+</style>
+
+## Membership
+
+<ul class="activity-list">
+    <li>Member of <strong>ACM SIGSAC China</strong></li>
+    <li>Executive Member of <strong>CCF Fault-Tolerant Computing Committee</strong></li>
+    <li>Member of <strong>ACM, IEEE, CCF</strong></li>
+</ul>
+
+## Academic Service
+
+<ul class="activity-list">
+    <li><strong>Electronics</strong> Special Issue Editor</li>
+    <li><strong>2025 7th International Conference on Circuits and Systems (ICCS 2025)</strong>, Program Chair</li>
+    <li><strong>2024 8th International Test Conference in Asia (ITC-Asia 2024)</strong>, Session Chair</li>
+    <li><strong>China Institute of Electronics 2023 Cyberspace Security Conference</strong>, Session Chair</li>
+    <li><strong>Chinese Association for Cryptologic Research 2022 Academic Conference on Cryptography Testing and Evaluation</strong>, Session Chair</li>
+</ul>
+
+## Academic Service
+
+<ul class="activity-list">
+    <li>3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec’25)</li>
+    <li>The 8th International Test Conference in Asia (ITC-Asia), 2024</li>
+    <li>Symposium on Vehicle Security and Privacy (VehicleSec) 2024</li>
+    <li>Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2023-2024</li>
+    <li>International Conference on Data Security and Privacy Protection (DSPP), 2024</li>
+    <li>International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP), 2024</li>
+    <li>IEEE Global Communications Conference: Selected Areas in Communications, 2024</li>
+    <li>IEEE International Symposium on Circuits & Systems (ISCAS), 2023</li>
+    <li>The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2023</li>
+</ul>
+
 ## Invited Talks
 
-* **Keynote Speaker**, "Security Challenges in VLA Models", *International Workshop on AI Safety*, Beijing, 2026.
-* **Guest Lecturer**, "Introduction to Autonomous Driving Security", *Zhejiang University*, Hangzhou, 2025.
-* **Invited Talk**, "Adversarial Attacks on End-to-End Driving", *CVPR Workshop on Safe AI*, 2025.
+<ul class="activity-list">
+    <li>
+        <strong>Intelligent Connected Vehicle Security Evaluation and Protection Enhancement</strong>
+        <span class="talk-venue">Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain and Data Security 2024 Data Security Themed Technical Sharing Session</span>
+    </li>
+    <li>
+        <strong>Chip Security Architecture and Attack Defense: Exploration and Practice</strong>
+        <span class="talk-venue">The 17th Huawei Rock-Solid Master Lecture</span>
+    </li>
+    <li>
+        <strong>Chip Security Architecture and Attack Defense for Large Models and Intelligent Vehicles</strong>
+        <span class="talk-venue">CCF Chip 2024 Processor Chip Security Forum</span>
+    </li>
+    <li>
+        <strong>Research on Starlink Terminal Cracking and Reverse Analysis</strong>
+        <span class="talk-venue">2024 Link-Link Academic Symposium</span>
+    </li>
+    <li>
+        <strong>Secure Converged Architecture of Software and Hardware, and Vulnerability Exploitation and Defense</strong>
+        <span class="talk-venue">2024 Huawei Computing Youth Forum</span>
+    </li>
+    <li>
+        <strong>Virtual-Real Fused Simulation and Testing Platform for Intelligent Connected Vehicle Security</strong>
+        <span class="talk-venue">VehicleSec’24 Lightening Talk</span>
+    </li>
 
+    <li>
+        <strong>Virtual-Real Integrated Testing and Simulation Platform for Intelligent Connected Vehicle Network Information Security</strong>
+        <span class="talk-venue">2023 East Lake Forum – Hubei Science and Technology Academic Annual Conference</span>
+    </li>
+    <li>
+        <strong>Intelligent Connected Vehicle Security: Frontiers and Practices</strong>
+        <span class="talk-venue">2023 Automobile Information Security Management in the Era of Intelligent Network Connection (Hangzhou Station)</span>
+    </li>
+    <li>
+        <strong>Research on Microarchitectural Attack and Defense for RISC-V BOOM v3 Processor</strong>
+        <span class="talk-venue">China Institute of Electronics 2023 Cyberspace Security Conference Processor Security Forum</span>
+    </li>
 
-
-## Academic Services
-
-### Area Chair / PC Member
-* **Area Chair**: AAAI (2026), CVPR (2026)
-* **Program Committee**: ICCV (2025), NeurIPS (2024-2026), ICML (2025)
-
-### Journal Reviewer
-* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-* IEEE Transactions on Information Forensics and Security (TIFS)
-* International Journal of Computer Vision (IJCV)
+    <li>
+        <strong>Supply Chain Management for Networked Electronic Devices</strong>
+        <span class="talk-venue">2015 CHASE Conference on Secure/Trustworthy Systems and Supply Chain Assurance</span>
+    </li>
+</ul>

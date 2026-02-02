@@ -4,42 +4,6 @@ title: 获奖荣誉
 lang: cn
 ---
 
-<style>
-    /* 基础列表样式：去掉默认圆点，增加行间距 */
-    .award-list {
-        list-style: none;
-        padding-left: 0;
-        margin-bottom: 40px;
-    }
-    .award-list li {
-        margin-bottom: 12px;
-        line-height: 1.6;
-        display: flex; /* 使用 Flex 布局让年份和文字对其 */
-        align-items: baseline;
-    }
-
-    /* 年份样式：固定宽度，加粗，深色 */
-    .award-year {
-        font-weight: bold;
-        color: #000;
-        min-width: 60px; /* 固定宽度，确保年份对其 */
-        margin-right: 15px;
-        flex-shrink: 0; /* 防止年份被压缩 */
-        font-family: "Helvetica Neue", Arial, sans-serif;
-    }
-
-    /* 奖项文本样式 */
-    .award-text {
-        color: #333;
-    }
-    
-    /* 针对特别重要的奖项（如人才帽子），可以加一个高亮类 */
-    .highlight-award {
-        color: #c00; /* 深红色高亮 */
-        font-weight: bold;
-    }
-</style>
-
 ## 获奖及荣誉
 
 <ul class="award-list">

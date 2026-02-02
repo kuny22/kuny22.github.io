@@ -4,11 +4,6 @@ title: 教学课程
 lang: cn
 ---
 
-<style>
-    .course-list li { margin-bottom: 15px; }
-    .semester-info { color: #666; font-size: 0.95em; margin-top: 4px; }
-</style>
-
 ## 主讲课程
 
 <ul class="course-list">
