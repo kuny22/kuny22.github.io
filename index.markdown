@@ -94,3 +94,27 @@ lang: en
 
 ## To Prospective Students
 I always look to recruit and support highly motivated graduate students majoring in electrical engineering or computer sciences. Please feel free to contact me if you are interested in hardware security and SoC/CPU/GPU security architecture. Outstanding graduates will have the chance to be recommended to further their studies overseas at well-known universities or work in top-tier technology companies (e.g., Huawei, Ant Group, NVIDIA, Horizon Robotics, Geely, etc.).
+
+## Cooperative Organizations
+<div class="partner-section">
+    <div class="partner-grid">
+        <a href="https://www.antgroup.com/" class="partner-card" target="_blank">
+            <img src="/assets/logo/ant.svg" class="partner-logo" alt="蚂蚁集团">
+        </a>
+        <a href="https://dh.geely.com/Home" class="partner-card" target="_blank">
+            <img src="/assets/logo/geely.svg" class="partner-logo" alt="吉利汽车">
+        </a>
+        <a href="https://www.horizon.auto/about" class="partner-card" target="_blank">
+            <img src="/assets/logo/hr.svg" class="partner-logo" alt="地平线">
+        </a>
+        <a href="https://www.huawei.com/cn/" class="partner-card" target="_blank">
+            <img src="/assets/logo/huawei.svg" class="partner-logo" alt="华为">
+        </a>
+        <a href="https://www.xiaopeng.com/" class="partner-card" target="_blank">
+            <img src="/assets/logo/xp.svg" class="partner-logo" alt="小鹏汽车">
+        </a>
+         <a href="https://www.zeekrlife.com/home" class="partner-card" target="_blank">
+            <img src="/assets/logo/zeekr.svg" class="partner-logo" alt="极氪">
+        </a>
+    </div>
+</div>

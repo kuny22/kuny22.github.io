@@ -511,3 +511,93 @@ li {
     font-weight: bold;
     color: #444;
 }
+
+/* 合作单位样式 */
+.partner-section {
+    margin-top: 10px;
+    padding-top: 10px;
+    /* 保持与页面其他分割线一致 */
+    text-align: center;
+}
+
+.partner-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    /* 确保字体与正文一致 */
+}
+
+/* 1. 网格容器 */
+.partner-grid {
+    display: flex;
+    flex-wrap: wrap;
+    /* 允许换行 */
+    justify-content: center;
+    /* 整体居中 */
+    gap: 20px;
+    /* 卡片之间的间距 */
+    max-width: 1000px;
+    /* 限制最大宽度，防止在大屏上太散 */
+    margin: 0 auto;
+    /* 容器本身居中 */
+}
+
+/* 2. 单个卡片 (白盒子) - 核心修改 */
+.partner-card {
+    width: 180px;
+    /* 【关键】固定卡片宽度 */
+    height: 80px;
+    /* 【关键】固定卡片高度 */
+    background-color: #fff;
+    /* 白底 */
+    border: 1px solid transparent;
+    /* 极淡的边框，保持干净 */
+    border-radius: 8px;
+    /* 圆角，增加现代感 */
+
+    /* 让图片在卡片里绝对居中 */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* 交互效果 */
+    transition: all 0.3s ease;
+    text-decoration: none;
+    /* 去掉链接下划线 */
+}
+
+/* 鼠标悬停卡片上浮效果 */
+.partner-card:hover {
+    transform: translateY(-3px);
+    /* 微微上浮 */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    /* 加点柔和阴影 */
+    border-color: #e0e0e0;
+}
+
+/* 3. Logo 图片样式 - 核心修改 */
+.partner-logo {
+    /* 【核心技巧】同时限制最大宽和高，而不是固定某一个 */
+    max-width: 85%;
+    /* 宽度最多占卡片的 85% (适合长条 Logo) */
+    max-height: 60%;
+    /* 高度最多占卡片的 60% (适合方正 Logo) */
+    width: auto;
+    /* 保持比例 */
+    height: auto;
+    /* 保持比例 */
+    object-fit: contain;
+    /* 确保图片完整显示 */
+
+    transition: filter 0.3s;
+}
+
+/* 手机端适配：卡片稍微变小 */
+@media (max-width: 768px) {
+    .partner-card {
+        width: 140px;
+        height: 70px;
+    }
+}
