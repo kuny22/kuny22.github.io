@@ -452,9 +452,9 @@ li {
 
 /* 3. 照片样式：参考图中的圆角矩形 */
 .member-photo {
-    width: 140px;
+    width: 160px;
     /* 固定宽度 */
-    height: 140px;
+    height: 200px;
     /* 固定高度 */
     object-fit: cover;
     /* 保证图片不变形，自动裁剪 */
@@ -529,7 +529,6 @@ li {
     /* 确保字体与正文一致 */
 }
 
-/* 1. 网格容器 */
 .partner-grid {
     display: flex;
     flex-wrap: wrap;
@@ -544,7 +543,6 @@ li {
     /* 容器本身居中 */
 }
 
-/* 2. 单个卡片 (白盒子) - 核心修改 */
 .partner-card {
     width: 180px;
     /* 【关键】固定卡片宽度 */
@@ -568,16 +566,6 @@ li {
     /* 去掉链接下划线 */
 }
 
-/* 鼠标悬停卡片上浮效果 */
-.partner-card:hover {
-    transform: translateY(-3px);
-    /* 微微上浮 */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-    /* 加点柔和阴影 */
-    border-color: #e0e0e0;
-}
-
-/* 3. Logo 图片样式 - 核心修改 */
 .partner-logo {
     /* 【核心技巧】同时限制最大宽和高，而不是固定某一个 */
     max-width: 85%;
@@ -601,3 +589,10 @@ li {
         height: 70px;
     }
 }
+
+
+
+
+
+
+

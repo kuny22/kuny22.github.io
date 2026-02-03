@@ -8,7 +8,7 @@ title: 团队成员
 <div class="team-grid">
     
     <div class="team-member">
-        <img src="/assets/images/team/wff.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/wff.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">王方方</div>
             <div class="member-role">在职博士</div>
@@ -19,7 +19,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/tyl.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/tyl.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">汤雨林</div>
             <div class="member-role">工程师</div>
@@ -30,7 +30,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/fsy.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/fsy.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">傅沈烨</div>
             <div class="member-role">工程师</div>
@@ -41,7 +41,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/ytm.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/ytm.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">颜天明</div>
             <div class="member-role">2023级 博士生</div>
@@ -52,7 +52,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/llt.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/llt.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">李林涛</div>
             <div class="member-role">2024级 博士生</div>
@@ -63,7 +63,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/cjh.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/cjh.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">陈钧浩</div>
             <div class="member-role">2025级 博士生</div>
@@ -74,7 +74,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/lby.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/lby.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">吕不一</div>
             <div class="member-role">2026级 博士生</div>
@@ -85,7 +85,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/lzy.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/lzy.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">李兆渊</div>
             <div class="member-role">2023级 硕士生</div>
@@ -96,7 +96,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/lss.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/lss.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">李思思</div>
             <div class="member-role">2023级 硕士生</div>
@@ -107,7 +107,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/wyp.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/wyp.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">卫宇鹏</div>
             <div class="member-role">2024级 硕士生</div>
@@ -118,7 +118,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/yxk.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/yxk.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">余祥昆</div>
             <div class="member-role">2024级 硕士生</div>
@@ -129,7 +129,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/ytw.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/ytw.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">游廷旺</div>
             <div class="member-role">2025级 硕士生</div>
@@ -140,7 +140,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/jqj.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/jqj.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">姜奇君</div>
             <div class="member-role">2026级 硕士生</div>
@@ -151,7 +151,7 @@ title: 团队成员
         </div>
     </div>
     <div class="team-member">
-        <img src="/assets/images/team/tz.jpg" class="member-photo" alt="Photo">
+        <img src="/assets/images/team/tz.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">陶卓</div>
             <div class="member-role">2026级 硕士生</div>
