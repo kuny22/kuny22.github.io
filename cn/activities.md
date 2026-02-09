@@ -4,15 +4,6 @@ title: 学术活动
 lang: cn
 ---
 
-<style>
-    /* 让列表项之间有点间距，不那么拥挤 */
-    .activity-list { margin-bottom: 40px; }
-    .activity-list li { margin-bottom: 15px; line-height: 1.6; }
-    
-    /* 报告地点的样式：灰色，稍微小一点 */
-    .talk-venue { display: block; color: #555; font-size: 0.95em; margin-top: 2px; }
-</style>
-
 ## 学术服务
 
 <ul class="activity-list">
