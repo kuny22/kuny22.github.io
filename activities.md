@@ -23,7 +23,7 @@ lang: en
     <li><strong>Chinese Association for Cryptologic Research 2022 Academic Conference on Cryptography Testing and Evaluation</strong>, Session Chair</li>
 </ul>
 
-## Academic Service
+## Program Committee Membership
 
 <ul class="activity-list">
     <li>63rd ACM/IEEE The Chips to Systems Conference (DAC), 2026</li>
@@ -94,7 +94,6 @@ lang: en
         <strong>Virtual-Real Fused Simulation and Testing Platform for Intelligent Connected Vehicle Security</strong>
         <span class="talk-venue">VehicleSec’24 Lightening Talk</span>
     </li>
-
     <li>
         <strong>Virtual-Real Integrated Testing and Simulation Platform for Intelligent Connected Vehicle Network Information Security</strong>
         <span class="talk-venue">2023 East Lake Forum – Hubei Science and Technology Academic Annual Conference</span>
@@ -107,7 +106,6 @@ lang: en
         <strong>Research on Microarchitectural Attack and Defense for RISC-V BOOM v3 Processor</strong>
         <span class="talk-venue">China Institute of Electronics 2023 Cyberspace Security Conference Processor Security Forum</span>
     </li>
-
     <li>
         <strong>Supply Chain Management for Networked Electronic Devices</strong>
         <span class="talk-venue">2015 CHASE Conference on Secure/Trustworthy Systems and Supply Chain Assurance</span>
