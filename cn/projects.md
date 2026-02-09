@@ -45,8 +45,8 @@ lang: cn
     }
 </style>
 
-## 在研课题
-
+## 科研项目
+### 纵向课题
 <ol class="simple-project-list">
     <li>
         <div class="proj-header">
@@ -57,7 +57,6 @@ lang: cn
             项目负责人，<span class="highlight-fund">经费：300万元</span>，2024.01 - 2027.12
         </div>
     </li>
-
     <li>
         <div class="proj-header">
             <span class="proj-category">【国家重点研发计划课题】</span>
@@ -67,7 +66,6 @@ lang: cn
             课题负责人，<span class="highlight-fund">经费：198万元</span>，2023.12 - 2026.11
         </div>
     </li>
-
     <li>
         <div class="proj-header">
             <span class="proj-category">【国家自然科学基金面上项目】</span>
@@ -77,7 +75,6 @@ lang: cn
             项目负责人，<span class="highlight-fund">经费：48万元</span>，2024.01 - 2027.12
         </div>
     </li>
-
     <li>
         <div class="proj-header">
             <span class="proj-category">【浙江省“尖兵”研发攻关计划项目】</span>
@@ -87,7 +84,6 @@ lang: cn
             课题负责人，<span class="highlight-fund">经费：200万元</span>，2025.01 - 2027.12
         </div>
     </li>
-
     <li>
         <div class="proj-header">
             <span class="proj-category">【浙江大学基本科研业务费专项资金】</span>
@@ -97,7 +93,11 @@ lang: cn
             项目负责人，<span class="highlight-fund">经费：40万元</span>，2023.01 - 2024.12
         </div>
     </li>
+</ol>
 
+### 横向课题
+
+<ol class="simple-project-list">
     <li>
         <div class="proj-header">
             <span class="proj-category">【CCF-蚂蚁科研基金软硬协同专项项目】</span>
@@ -107,7 +107,6 @@ lang: cn
             项目负责人，<span class="highlight-fund">经费：50万元</span>，2023.12 - 2024.11
         </div>
     </li>
-
     <li>
         <div class="proj-header">
             <span class="proj-category">【XX横向项目】</span>
@@ -117,7 +116,6 @@ lang: cn
             项目负责人，<span class="highlight-fund">经费：XX万元</span>，2025.XX - 2026.XX
         </div>
     </li>
-
     <li>
         <div class="proj-header">
             <span class="proj-category">【地平线横向项目】</span>
@@ -127,17 +125,15 @@ lang: cn
             项目负责人，<span class="highlight-fund">经费：XX万元</span>，2024.01 - 2025.01
         </div>
     </li>
-
     <li>
         <div class="proj-header">
             <span class="proj-category">【吉利横向项目】</span>
-            <span class="proj-name">主动 防御安全架构技术开发项目</span>
+            <span class="proj-name">主动防御安全架构技术开发项目</span>
         </div>
         <div class="proj-meta">
             项目负责人，<span class="highlight-fund">经费：XX万元</span>，2026.01 - 2027.02
         </div>
     </li>
-
     <li>
         <div class="proj-header">
             <span class="proj-category">【吉利横向项目】</span>

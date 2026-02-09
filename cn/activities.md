@@ -29,7 +29,7 @@ lang: cn
 
 ## 邀请报告
 
-<ul class="activity-list">
+<ol class="activity-list">
     <li>
         <strong>智能网联汽车安全：体系构建与实践探索</strong>
         <span class="talk-venue">谈思AutoSec新春沙龙</span>
@@ -98,4 +98,4 @@ lang: cn
         <strong>Supply Chain Management for Networked Electronic Devices</strong>
         <span class="talk-venue">2015 CHASE Conference on Secure/Trustworthy Systems and Supply Chain Assurance</span>
     </li>
-</ul>
+</ol>
