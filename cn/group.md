@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 团队成员
+lang: cn
 ---
 
 ## 团队成员

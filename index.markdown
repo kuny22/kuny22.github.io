@@ -6,23 +6,24 @@ lang: en
 
 <div class="profile-header">
     <img src="/assets/images/avatar.jpg" class="profile-avatar" alt="Photo">
-    
     <div class="profile-info">
         <div class="profile-name-line">
-           Kun Yang
+            Kun Yang
         </div>
-<!-- TODO：这里可能需要修改，但是太长了 -->
         <div class="profile-text-line">
             ZJU100 Young Professor | Doctoral supervisor
         </div>
+        <div class="profile-text-line" style="font-size: 14px; color: #555;">
+             College of Computer Science and Technology, Zhejiang University
+        </div>
+        <!-- <div style="height: 8px;"></div>  -->
         <div class="profile-text-line">
-             College of Computer Science and Technology 
-        </div>        
-        <div class="profile-text-line">
-             Zhejiang University
-        </div>      
-
-        <div class="profile-text-line" style="margin-top: 10px;">
+            Associate Dean
+        </div>
+        <div class="profile-text-line" style="font-size: 14px; color: #555;">
+             Hangzhou High-Tech Zone (Binjiang) Blockchain and Data Security Research Institute
+        </div>
+        <div class="profile-text-line" style="margin-top: 5px;">
             <span class="profile-label">Email:</span> kuny@zju.edu.cn
         </div>
         <div class="profile-text-line">
@@ -30,18 +31,15 @@ lang: en
         </div>
     </div>
 </div>
-
 ## Research Interests
-<!-- TODO：更新研究方向 -->
-- Chip Security Architecture, Hardware-Software Co-Designed Security Architecture, Processor Microarchitecture Security, TEE
-- Hardware Acceleration for Cryptographic Algorithms
-- Intelligent Connected Vehicle Security, Security Chip for Intelligent Vehicle, Intelligent Vehicle Vulnerability Detection, Intrusion Detection System for Intelligent Vehicle
+- Chip Security: Chip Security Architecture, RISC-V Processor Security, Trusted Execution Environment
+- High-Performance Computing: Cryptographic Operation Acceleration, AI Computing Acceleration
+- Intelligent Connected Vehicle Security: Intelligent Vehicle Vulnerability Mining and Intrusion Detection, Intelligent Driving Models and Intelligent Vehicle AI Security
 
 <h2>Education</h2>
 <ul class="resume-list">
     <li class="resume-item">
-        <div class="resume-date">2015.08 - 2018.05  </div>
-        
+        <div class="resume-date">2015.08 - 2018.05</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 10px">
                 University of Florida, Electrical and Computer Engineering, Doctor of Philosophy
@@ -51,7 +49,6 @@ lang: en
             </div>
         </div>
     </li>
-
     <li class="resume-item">
         <div class="resume-date">2012.08 - 2015.08</div>
         <div class="resume-detail">
@@ -63,7 +60,6 @@ lang: en
             </div>
         </div>
     </li>
-
     <li class="resume-item">
         <div class="resume-date">2009.09 - 2012.07  </div>
         <div class="resume-detail">
@@ -75,7 +71,6 @@ lang: en
             </div>
         </div>
     </li>
-
     <li class="resume-item">
         <div class="resume-date">2005.09 - 2009.07  </div>
         <div class="resume-detail">
@@ -87,7 +82,7 @@ lang: en
 </ul>
 
 ## Work Experience
-<!-- TODO: 补充工作经历 -->
+- 2025.07-present, Associate Dean of Hangzhou High-tech Zone (Binjiang) Blockchain and Data Security Research Institute
 - 2022.03-present, Zhejiang University, ZJU100 Young Professor
 - 2018.05-2022.01, NVIDIA Corporation, Sr. Security Architect
 - 2014.05-2014.08, Comcast Corporation, Hardware Security Engineering Intern

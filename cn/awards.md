@@ -9,6 +9,10 @@ lang: cn
 <ul class="award-list">
     <li>
         <span class="award-year">2025</span>
+        <span class="award-text">第四届 NVDB-CAVD 杯汽车信息安全年度总决赛 三等奖</span>
+    </li>
+    <li>
+        <span class="award-year">2025</span>
         <span class="award-text">《网络空间安全科学学报》2024-2025年度优秀学术论文</span>
     </li>
     <li>
@@ -55,7 +59,11 @@ lang: cn
 <ul class="award-list">
     <li>
         <span class="award-year">2025</span>
-        <span class="award-text">“招商铸盾”智能网联汽车攻防赛优秀奖</span>
+        <span class="award-text">第四届 NVDB-CAVD 杯汽车信息安全年度总决赛 三等奖</span>
+    </li> 
+    <li>
+        <span class="award-year">2025</span>
+        <span class="award-text">2025“招商铸盾”智能网联汽车攻防赛优秀奖</span>
     </li>    
     <li>
         <span class="award-year">2025</span>

@@ -130,19 +130,11 @@ a:hover {
 /* --- 名字行样式 --- */
 .profile-name-line {
     font-size: 24px;
-    /* 字号要大，通常是 22px-26px */
     font-weight: bold;
-    /* 加粗 */
     color: #000;
-    /* 纯黑色，突出显示 */
-    margin-bottom: 15px;
-    /* 名字和下方第一条职位之间留出明显空隙 */
+    margin-bottom: 12px;
     line-height: 1.2;
-    /* 行高紧凑一点 */
     padding-bottom: 2px;
-    /* (可选) 如果想要名字下面有一条分割线，配合下一行使用 */
-    /* border-bottom: 5px solid #eee; */
-    /* (可选) 名字下方加一条淡淡的分割线，看起来更正式 */
 }
 /* 单个职务块：每个职务之间留出间距 */
 .profile-job-item {
@@ -592,7 +584,21 @@ li {
 
 
 
+.activity-list {
+    margin-bottom: 40px;
+}
 
+.activity-list li {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+.talk-venue {
+    display: block;
+    color: #555;
+    font-size: 0.95em;
+    margin-top: 2px;
+}
 
 
 

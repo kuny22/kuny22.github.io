@@ -25,21 +25,21 @@ lang: en
         </div>
     </li>
     <li>
-        <strong>Introduction to Cyberspace Security</strong> (Master's Course)
+        <strong>Introduction to Cyberspace Security</strong> (Graduate Course)
         <div class="semester-info">
-            Spring-Summer 2022, Spring-Summer 2023, Spring-Summer 2024
+            Spring-Summer 2022, Spring-Summer 2023, Spring-Summer 2024, Spring-Summer 2025
         </div>
     </li>
     <li>
-        <strong>Frontier Technologies and Research Methodology in Information Security</strong> (Master & Ph.D. Course)
+        <strong>Frontier Technologies and Research Methodology in Information Security</strong> (Graduate Course)
         <div class="semester-info">
-            Spring-Summer 2023, Spring-Summer 2024
+            Spring-Summer 2023, Spring-Summer 2024, Spring-Summer 2025
         </div>
     </li>
     <li>
-        <strong>Hardware Security and Digital Forensics</strong> (Master & Ph.D. Course)
+        <strong>Hardware Security and Digital Forensics</strong> (Graduate Course)
         <div class="semester-info">
-            Autumn-Winter 2022, Autumn-Winter 2023
+            Autumn-Winter 2022, Autumn-Winter 2023, Autumn-WInter 2024, Spring-Summer 2025
         </div>
     </li>
 </ul>

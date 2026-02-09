@@ -6,24 +6,19 @@ lang: cn
 
 <div class="profile-header">
     <img src="/assets/images/avatar.jpg" class="profile-avatar" alt="Photo">
-    
     <div class="profile-info">
         <div class="profile-name-line">
            杨坤
         </div>
-
         <div class="profile-text-line">
             浙江大学计算机科学与技术学院 百人计划研究员 | 博士生导师
         </div>      
-
         <div class="profile-text-line">
             杭州高新区（滨江）区块链与数据安全研究院 副院长
         </div>  
-        
         <div class="profile-text-line">
             国家高层次人才青年人才
         </div>
-        
         <div class="profile-text-line" style="margin-top: 10px;">
             <span class="profile-label">邮箱:</span> kuny@zju.edu.cn
         </div>
@@ -34,9 +29,9 @@ lang: cn
 </div>
 
 ## 研究方向
-- **硬件与芯片安全**：芯片安全架构、RISC-V处理器安全、可信执行环境
+- **芯片安全**：芯片安全架构、RISC-V处理器安全、可信执行环境
 - **高性能计算**：密码运算加速、AI运算加速
-- **智能网联汽车安全**：智能车安全芯片、智能车漏洞挖掘与入侵检测、智驾模型与智能车AI安全
+- **智能网联车安全**：智能车漏洞挖掘与入侵检测、智驾模型与智能车AI安全
 
 <h2>学习经历</h2>
 <ul class="resume-list">

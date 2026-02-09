@@ -4,18 +4,12 @@ title: Activities
 lang: en
 ---
 
-<style>
-    .activity-list { margin-bottom: 40px; }
-    .activity-list li { margin-bottom: 15px; line-height: 1.6; }
-    
-    .talk-venue { display: block; color: #555; font-size: 0.95em; margin-top: 2px; }
-</style>
-
 ## Membership
 
 <ul class="activity-list">
     <li>Member of <strong>ACM SIGSAC China</strong></li>
     <li>Executive Member of <strong>CCF Fault-Tolerant Computing Committee</strong></li>
+    <li>Executive Member of <strong>Computer Architecture Committee</strong></li>
     <li>Member of <strong>ACM, IEEE, CCF</strong></li>
 </ul>
 
@@ -32,6 +26,8 @@ lang: en
 ## Academic Service
 
 <ul class="activity-list">
+    <li>63rd ACM/IEEE The Chips to Systems Conference (DAC), 2026</li>
+    <li>4th USENIX Symposium on Vehicle Security and Privacy (VehicleSec’26)</li>
     <li>3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec’25)</li>
     <li>The 8th International Test Conference in Asia (ITC-Asia), 2024</li>
     <li>Symposium on Vehicle Security and Privacy (VehicleSec) 2024</li>
@@ -46,6 +42,34 @@ lang: en
 ## Invited Talks
 
 <ul class="activity-list">
+    <li>
+        <strong>Intelligent Connected Vehicle Security: System Construction and Practical Exploration</strong>
+        <span class="talk-venue">TanSi AutoSec New Year Salon</span>
+    </li>    
+    <li>
+        <strong>Intelligent Connected Vehicle Security: System Construction and Practical Exploration</strong>
+        <span class="talk-venue"> 2025 CCF Digital Transportation Conference</span>
+    </li>
+    <li>
+        <strong>Research on Key Security Enhancement Technologies for Intelligent Terminals</strong>
+        <span class="talk-venue">Zhihui Qiantang Technology Forum & Zhejiang University – HarmonyOS Innovation Technology Workshop</span>
+    </li>
+    <li>
+        <strong>Research on Hardware Enhancement Technologies for Intelligent Vehicles</strong>
+        <span class="talk-venue">The 21st CCF National Conference on Fault-Tolerant Computing</span>
+    </li>
+    <li>
+        <strong>Construction and Practice of a Defense-in-Depth Security System for Intelligent Connected Vehicles</strong>
+        <span class="talk-venue">The 21st CCF National Conference on Fault-Tolerant Computing</span>
+    </li>
+    <li>
+        <strong>Defense-in-Depth Security for Intelligent Vehicles: Building a Security Framework for Intelligent Connectivity</strong>
+        <span class="talk-venue">TanSi AutoSec Automotive Security Live Course</span>
+    </li>
+    <li>
+        <strong>Research on Attack-Defense Technologies for Intelligent Vehicles</strong>
+        <span class="talk-venue">Automotive Cybersecurity Attack-Defense Range Base Inauguration Ceremony & NVDB-CAVD 2025 Automotive Information Security Spring Competition</span>
+    </li>
     <li>
         <strong>Intelligent Connected Vehicle Security Evaluation and Protection Enhancement</strong>
         <span class="talk-venue">Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain and Data Security 2024 Data Security Themed Technical Sharing Session</span>

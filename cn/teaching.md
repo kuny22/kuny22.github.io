@@ -27,19 +27,19 @@ lang: cn
     <li>
         <strong>网络空间安全入门</strong> (硕士生课程)
         <div class="semester-info">
-            2022春夏、2023春夏、2024春夏
+            2022春夏、2023春夏、2024春夏、2025年春夏
         </div>
     </li>
     <li>
         <strong>信息安全前沿技术和研究方法论</strong> (硕博通用课程)
         <div class="semester-info">
-            2023春夏、2024春夏
+            2023春夏、2024春夏、2025年春夏
         </div>
     </li>
     <li>
         <strong>硬件安全和数字取证</strong> (硕博通用课程)
         <div class="semester-info">
-            2022秋冬、2023秋冬
+            2022秋冬、2023秋冬、2024年秋冬、25年春夏
         </div>
     </li>
 </ul>
