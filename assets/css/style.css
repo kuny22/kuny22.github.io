@@ -252,6 +252,7 @@ li {
     /* 防止时间被压缩换行 */
     font-family: "Helvetica Neue", Arial, sans-serif;
     /* 时间用无衬线体更清爽 */
+    white-space: nowrap;
 }
 
 /* 右侧内容栏 */
