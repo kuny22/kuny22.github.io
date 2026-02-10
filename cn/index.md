@@ -128,11 +128,11 @@ lang: cn
         <a href="https://www.huawei.com/cn/" class="partner-card" target="_blank">
             <img src="/assets/logo/huawei.svg" class="partner-logo" alt="华为">
         </a>
-        <a href="https://www.horizon.auto/about" class="partner-card" target="_blank">
-            <img src="/assets/logo/hr.svg" class="partner-logo" alt="地平线">
-        </a>
         <a href="https://www.antgroup.com/" class="partner-card" target="_blank">
             <img src="/assets/logo/ant.svg" class="partner-logo" alt="蚂蚁集团">
+        </a>
+        <a href="https://www.horizon.auto/about" class="partner-card" target="_blank">
+            <img src="/assets/logo/hr.svg" class="partner-logo" alt="地平线">
         </a>
         <a href="https://dh.geely.com/Home" class="partner-card" target="_blank">
             <img src="/assets/logo/geely.svg" class="partner-logo" alt="吉利汽车">

@@ -149,7 +149,7 @@ lang: cn
             <span class="proj-name">自动驾驶端到端多模态模型的安全研究和应用开发</span>
         </div>
         <div class="proj-meta">
-            课题负责人，<span class="highlight-fund">经费：30万元</span>，2026.01 - 2026.08
+            课题负责人，<span class="highlight-fund">经费：30万元</span>，2025.11 - 2026.08
         </div>
     </li>
 </ol>

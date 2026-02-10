@@ -17,7 +17,7 @@ lang: en
   * *ACM/IEEE Design Automation Conference (DAC)*, 2024.
   * [ [PDF](https://dl.acm.org/doi/pdf/10.1145/3649329.3657322) ]
 
-* **[NTECH] Crypto Accelerator DPA Resistance Evaluation and Enhancement** <span style="color:#d9534f; font-weight:bold;">[Best Paper Award (1st Place)]</span>
+* **[NTECH] Crypto Accelerator DPA Resistance Evaluation and Enhancement** <span style="color:#FF0000; font-weight:bold;">[Best Paper Award (1st Place)]</span>
   * **Kun Yang**, Weiping Pan, Yuji Qian, Xiao Wu, Shuai Wang, Xinxing Hu, Chen Yao, Zhili Wang, Xixi Xie, Paul Chou
   * *NVIDIA NTECH Conference*, 2020.
 
@@ -33,7 +33,7 @@ lang: en
   * **Kun Yang**, Ulbert Botero, Haoting Shen, Domenic Forte, Mark Tehranipoor
   * *IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST)*, 2017.
 
-* **[HOST] UCR: An Unclonable Chipless RFID Tag** <span style="color:#d9534f; font-weight:bold;">[Best Paper Award Nomination]</span>
+* **[HOST] UCR: An Unclonable Chipless RFID Tag** <span style="color:#FF0000; font-weight:bold;">[Best Paper Award Nomination]</span>
   * **Kun Yang**, Domenic Forte, Mark Tehranipoor
   * *IEEE Symposium on Hardware-Oriented Security and Trust (HOST)*, 2016.
 
@@ -89,7 +89,7 @@ lang: en
   * Xiaosong Zhang, Sheng Cao, Tianbo Lu, **Kun Yang**, Xun Gui, Guotao Xie, Weina Niu
   * *Advanced Engineering Sciences*, Volume 57 Issue 3, pp.1-10, May 2025.
 
-* **[JoC] A Survey of Cybersecurity for Intelligent Connected Vehicles** <span style="color:#d9534f; font-weight:bold;">[Annual Outstanding Academic Paper Award]</span>
+* **[JoC] A Survey of Cybersecurity for Intelligent Connected Vehicles** <span style="color:#FF0000; font-weight:bold;">[Annual Outstanding Academic Paper Award]</span>
   * Kui Ren, **Kun Yang***, Haoting Shen, Feng Lin, Dakun Shen
   * *Journal of Cybersecurity*, Volume 2 Issue 6, pp.16-35, Dec 2024.
 
