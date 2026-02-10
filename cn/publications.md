@@ -17,7 +17,7 @@ lang: cn
   * *ACM/IEEE Design Automation Conference (DAC)*, 2024.
   * [ [PDF](https://dl.acm.org/doi/pdf/10.1145/3649329.3657322) ]
 
-* **[NTECH] Crypto Accelerator DPA Resistance Evaluation and Enhancement** <span style="color:#d9534f; font-weight:bold;">[Best Paper Award (1st Place)]</span>
+* **[NTECH] Crypto Accelerator DPA Resistance Evaluation and Enhancement** <span style="color:#FF0000; font-weight:bold;">[Best Paper Award (1st Place)]</span>
   * **Kun Yang**, Weiping Pan, Yuji Qian, Xiao Wu, Shuai Wang, Xinxing Hu, Chen Yao, Zhili Wang, Xixi Xie, Paul Chou
   * *NVIDIA NTECH Conference*, 2020.
 
@@ -33,7 +33,7 @@ lang: cn
   * **Kun Yang**, Ulbert Botero, Haoting Shen, Domenic Forte, Mark Tehranipoor
   * *IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST)*, 2017.
 
-* **[HOST] UCR: An Unclonable Chipless RFID Tag** <span style="color:#d9534f; font-weight:bold;">[Best Paper Award Nomination]</span>
+* **[HOST] UCR: An Unclonable Chipless RFID Tag** <span style="color:#FF0000; font-weight:bold;">[Best Paper Award Nomination]</span>
   * **Kun Yang**, Domenic Forte, Mark Tehranipoor
   * *IEEE Symposium on Hardware-Oriented Security and Trust (HOST)*, 2016.
 
@@ -101,7 +101,7 @@ lang: cn
   * *Fiber and Integrated Optics*, Volume 31 Issue 3, pp.164-177, Jun 2012.
 
 ### 中文期刊
-* **【UPDATE】基于FPGA的RISC-V架构智能车安全算法设计与实现**
+* **基于FPGA的RISC-V架构智能车安全算法设计与实现**
   * 杨坤*，陈祉源，李兆渊，余祥昆，陈钧浩，任奎
   * **计算机工程与设计** . 2025 ,x (xx)
 
@@ -110,7 +110,7 @@ lang: cn
   * **工程科学与技术**，2025，57（3）：1 ‒ 10. 
   * DOI：10.12454/j.jsuese.202400954
 
-* **【年度优秀学术论文】智能网联汽车网络信息安全综述**
+* **智能网联汽车网络信息安全综述**<span style="color:#FF0000; font-weight:bold;">【年度优秀学术论文】</span>
   * 任奎，杨坤*，沈浩頲，林峰，申大坤
   * **网络空间安全科学学报**，2024，2（6）：16 - 35.
   * DOI：10.20172/j.issn.2097-3136.240602

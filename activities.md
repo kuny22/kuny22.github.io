@@ -41,7 +41,7 @@ lang: en
 
 ## Invited Talks
 
-<ul class="activity-list">
+<ol class="activity-list">
     <li>
         <strong>Intelligent Connected Vehicle Security: System Construction and Practical Exploration</strong>
         <span class="talk-venue">TanSi AutoSec New Year Salon</span>
@@ -110,4 +110,4 @@ lang: en
         <strong>Supply Chain Management for Networked Electronic Devices</strong>
         <span class="talk-venue">2015 CHASE Conference on Secure/Trustworthy Systems and Supply Chain Assurance</span>
     </li>
-</ul>
+</ol>
