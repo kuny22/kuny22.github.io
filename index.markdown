@@ -39,7 +39,7 @@ lang: en
 <h2>Education</h2>
 <ul class="resume-list">
     <li class="resume-item">
-        <div class="resume-date">2015.08 - 2018.05</div>
+        <div class="resume-date">2015.08-2018.05</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 10px">
                 University of Florida, Electrical and Computer Engineering, Doctor of Philosophy
@@ -50,7 +50,7 @@ lang: en
         </div>
     </li>
     <li class="resume-item">
-        <div class="resume-date">2012.08 - 2015.08</div>
+        <div class="resume-date">2012.08-2015.08</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 10px">
                 University of Connecticut, Electrical Engineering, Master of Science
@@ -61,7 +61,7 @@ lang: en
         </div>
     </li>
     <li class="resume-item">
-        <div class="resume-date">2009.09 - 2012.07  </div>
+        <div class="resume-date">2009.09-2012.07</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 10px">
                 Institute of Microelectronics of Chinese Academy of Sciences, Electronics and Communications Engineering, Master of Engineering
@@ -72,7 +72,7 @@ lang: en
         </div>
     </li>
     <li class="resume-item">
-        <div class="resume-date">2005.09 - 2009.07  </div>
+        <div class="resume-date">2005.09-2009.07</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 10px">
                 University of Science and Technology of China, Electronic Information Science and Technology, Bachelor of Natural Science
