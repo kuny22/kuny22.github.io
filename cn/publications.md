@@ -66,7 +66,7 @@ lang: cn
   * *SPIE/OSA/IEEE Asia Communications and Photonics Conference (ACP)*, 2011.
 
 ### 会议海报
-* **[DAC POSTER] LUT-MM: An Efficient Lookup Table-Based Approach for Modular Multiplication**
+* **[DAC] LUT-MM: An Efficient Lookup Table-Based Approach for Modular Multiplication**
   * Zhaoyuan Li, **Kun Yang***, Kui Ren
   * *ACM/IEEE Design Automation Conference (DAC)*, 2025.
 
@@ -102,16 +102,16 @@ lang: cn
 
 ### 中文期刊
 * **基于FPGA的RISC-V架构智能车安全算法设计与实现**
-  * 杨坤*，陈祉源，李兆渊，余祥昆，陈钧浩，任奎
-  * **计算机工程与设计** . 2025 ,x (xx)
+  * **杨坤***，陈祉源，李兆渊，余祥昆，陈钧浩，任奎
+  * **计算机工程与设计**
 
 * **分布式无证书网络身份系统的关键技术研究构想和成果展望**
-  *  张小松，曹晟，陆天波，杨坤，桂勋，谢国涛，牛伟纳
+  *  张小松，曹晟，陆天波，**杨坤**，桂勋，谢国涛，牛伟纳
   * **工程科学与技术**，2025，57（3）：1 ‒ 10. 
   * DOI：10.12454/j.jsuese.202400954
 
 * **智能网联汽车网络信息安全综述**<span style="color:#FF0000; font-weight:bold;">【年度优秀学术论文】</span>
-  * 任奎，杨坤*，沈浩頲，林峰，申大坤
+  * 任奎，**杨坤***，沈浩頲，林峰，申大坤
   * **网络空间安全科学学报**，2024，2（6）：16 - 35.
   * DOI：10.20172/j.issn.2097-3136.240602
 

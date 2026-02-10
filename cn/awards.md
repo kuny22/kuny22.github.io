@@ -9,7 +9,7 @@ lang: cn
 <ul class="award-list">
     <li>
         <span class="award-year">2025</span>
-        <span class="award-text">第四届 NVDB-CAVD 杯汽车信息安全年度总决赛 三等奖</span>
+        <span class="award-text">第四届 NVDB-CAVD 杯汽车信息安全年度总决赛三等奖</span>
     </li>
     <li>
         <span class="award-year">2025</span>
@@ -17,11 +17,11 @@ lang: cn
     </li>
     <li>
         <span class="award-year">2025</span>
-        <span class="award-text">第一届 HISEC 杯全国高校汽车信息安全挑战赛 优秀奖</span>
+        <span class="award-text">第一届 HISEC 杯全国高校汽车信息安全挑战赛优秀奖</span>
     </li>
     <li>
         <span class="award-year">2024</span>
-        <span class="award-text">第三届 NVDB-CAVD 杯汽车信息安全总决赛 三等奖</span>
+        <span class="award-text">第三届 NVDB-CAVD 杯汽车信息安全总决赛三等奖</span>
     </li>
     <li>
         <span class="award-year">2024</span>
@@ -59,7 +59,7 @@ lang: cn
 <ul class="award-list">
     <li>
         <span class="award-year">2025</span>
-        <span class="award-text">第四届 NVDB-CAVD 杯汽车信息安全年度总决赛 三等奖</span>
+        <span class="award-text">第四届 NVDB-CAVD 杯汽车信息安全年度总决赛三等奖</span>
     </li> 
     <li>
         <span class="award-year">2025</span>
@@ -67,7 +67,7 @@ lang: cn
     </li>    
     <li>
         <span class="award-year">2025</span>
-        <span class="award-text">第一届 HISEC 杯全国高校汽车信息安全挑战赛 优秀奖</span>
+        <span class="award-text">第一届 HISEC 杯全国高校汽车信息安全挑战赛优秀奖</span>
     </li>
     <li>
         <span class="award-year">2024</span>
@@ -75,7 +75,7 @@ lang: cn
     </li>
     <li>
         <span class="award-year">2024</span>
-        <span class="award-text">第三届 NVDB-CAVD 杯汽车信息安全总决赛 三等奖</span>
+        <span class="award-text">第三届 NVDB-CAVD 杯汽车信息安全总决赛三等奖</span>
     </li>
     <li>
         <span class="award-year">2024</span>
@@ -87,14 +87,14 @@ lang: cn
     </li>
     <li>
         <span class="award-year">2024</span>
-        <span class="award-text">第七届浙江省大学生网络与信息安全竞赛 二等奖 (2项)</span>
+        <span class="award-text">第七届浙江省大学生网络与信息安全竞赛二等奖 (2项)</span>
     </li>
     <li>
         <span class="award-year">2023</span>
-        <span class="award-text">第二届 NVDB-CAVD 杯汽车信息安全总决赛 二等奖</span>
+        <span class="award-text">第二届 NVDB-CAVD 杯汽车信息安全总决赛二等奖</span>
     </li>
     <li>
         <span class="award-year">2023</span>
-        <span class="award-text">第六届浙江省大学生网络与信息安全竞赛 三等奖</span>
+        <span class="award-text">第六届浙江省大学生网络与信息安全竞赛三等奖</span>
     </li>
 </ul>

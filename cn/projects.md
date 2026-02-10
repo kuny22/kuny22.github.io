@@ -45,8 +45,8 @@ lang: cn
     }
 </style>
 
-## 科研项目
-### 纵向课题
+## 主持项目
+### 纵向
 <ol class="simple-project-list">
     <li>
         <div class="proj-header">
@@ -95,7 +95,7 @@ lang: cn
     </li>
 </ol>
 
-### 横向课题
+### 横向
 
 <ol class="simple-project-list">
     <li>
@@ -113,7 +113,7 @@ lang: cn
             <span class="proj-name">面向XX芯片的隐私计算基础算子电路设计</span>
         </div>
         <div class="proj-meta">
-            项目负责人，<span class="highlight-fund">经费：XX万元</span>，2025.XX - 2026.XX
+            项目负责人，<span class="highlight-fund">经费：XX万元</span>，2025.12 - 2026.12
         </div>
     </li>
     <li>
@@ -141,6 +141,15 @@ lang: cn
         </div>
         <div class="proj-meta">
             课题负责人，<span class="highlight-fund">经费：XX万元</span>，2026.01 - 2026.08
+        </div>
+    </li>
+    <li>
+        <div class="proj-header">
+            <span class="proj-category">【吉利横向项目】</span>
+            <span class="proj-name">自动驾驶端到端多模态模型的安全研究和应用开发</span>
+        </div>
+        <div class="proj-meta">
+            课题负责人，<span class="highlight-fund">经费：30万元</span>，2026.01 - 2026.08
         </div>
     </li>
 </ol>

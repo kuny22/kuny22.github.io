@@ -8,9 +8,9 @@ lang: en
 
 <ul class="course-list">
     <li>
-        <strong>Computer Organization</strong> (Undergraduate Course)
+        <strong>Computer Organization and Design</strong> (Undergraduate Course)
         <div class="semester-info">
-            Spring-Summer 2024, Autumn-Winter 2024, Autumn-Winter 2025
+            Spring-Summer 2024, Fall-Winter 2024, Fall-Winter 2025
         </div>
     </li>
 </ul>
@@ -21,7 +21,7 @@ lang: en
     <li>
         <strong>Wireless and IoT Security</strong> (Graduate Course)
         <div class="semester-info">
-            Autumn-Winter 2024, Autumn-Winter 2025
+            Fall-Winter 2024, Fall-Winter 2025
         </div>
     </li>
     <li>
@@ -39,7 +39,7 @@ lang: en
     <li>
         <strong>Hardware Security and Digital Forensics</strong> (Graduate Course)
         <div class="semester-info">
-            Autumn-Winter 2022, Autumn-Winter 2023, Autumn-WInter 2024, Spring-Summer 2025
+            Fall-Winter 2022, Fall-Winter 2023, Fall-Winter 2024, Spring-Summer 2025
         </div>
     </li>
 </ul>

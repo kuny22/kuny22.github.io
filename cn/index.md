@@ -11,10 +11,10 @@ lang: cn
            杨坤
         </div>
         <div class="profile-text-line">
-            浙江大学计算机科学与技术学院 百人计划研究员 | 博士生导师
+            浙江大学计算机科学与技术学院  百人计划研究员 | 博士生导师
         </div>      
         <div class="profile-text-line">
-            杭州高新区（滨江）区块链与数据安全研究院 副院长
+            杭州高新区（滨江）区块链与数据安全研究院  副院长
         </div>  
         <div class="profile-text-line">
             国家高层次人才青年人才
@@ -80,34 +80,68 @@ lang: cn
 
 ## 工作经历
 
-- 2025.07-今，杭州高新区（滨江）区块链与数据安全研究院副院长
-- 2022.03-今，浙江大学，百人计划研究员
-- 2018.05-2022.01，美国英伟达公司总部(NVIDIA Corporation)，高级架构师(Sr. Architect)
-- 2014.05-2014.08，美国康卡斯特公司总部(Comcast Corporation)，硬件安全工程实习生(Hardware Security Engineering Intern)
+<ul class="resume-list">
+    <li class="resume-item">
+        <div class="resume-date">2025.07-今</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 10px">
+                杭州高新区（滨江）区块链与数据安全研究院副院长
+            </div>
+        </div>
+    </li>
+    <li class="resume-item">
+        <div class="resume-date">2022.03-今</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 10px">
+                浙江大学百人计划研究员
+            </div>
+        </div>
+    </li>
+    <li class="resume-item">
+        <div class="resume-date">2018.05-2022.01</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 10px">
+                美国英伟达公司总部(NVIDIA Corporation)，高级架构师(Sr. Architect)
+            </div>
+        </div>
+    </li>
+    <li class="resume-item">
+        <div class="resume-date">2014.05-2014.08</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 10px">
+                美国康卡斯特公司总部(Comcast Corporation)，硬件安全工程实习生(Hardware Security Engineering Intern)
+            </div>
+        </div>
+    </li>
+</ul>
+
 
 ## 招生
-招收计算机科学与技术/网络空间安全/电子信息(网络与信息安全)专业的研究生(博士/硕士)，同时欢迎优秀的本科生到我的课题组做暑期实习和毕业设计。欢迎对芯片安全、软硬件系统安全和智能网联汽车安全感兴趣的同学与我联系。优秀的毕业生可推荐到海外知名高校继续深造或业内顶尖科技公司(例如：华为、蚂蚁、英伟达、地平线、吉利等)工作。
+招收计算机科学与技术/网络空间安全/电子信息(网络与信息安全)专业的研究生(博士/硕士)，同时欢迎优秀的本科生到我的课题组做暑期实习和毕业设计。欢迎对芯片安全、高性能计算和智能网联车安全感兴趣的同学与我联系。优秀的毕业生可推荐到海外知名高校继续深造或业内顶尖科技公司(例如：华为、蚂蚁、英伟达、地平线、吉利等)工作。
 
 ## 合作单位
 <div class="partner-section">
     <div class="partner-grid">
+        <a href="https://www.nsfc.gov.cn/" class="partner-card" target="_blank">
+            <img src="/assets/logo/nsfc.png" class="partner-logo" alt="国家自然科学基金">
+        </a>
+        <a href="https://www.huawei.com/cn/" class="partner-card" target="_blank">
+            <img src="/assets/logo/huawei.svg" class="partner-logo" alt="华为">
+        </a>
+        <a href="https://www.horizon.auto/about" class="partner-card" target="_blank">
+            <img src="/assets/logo/hr.svg" class="partner-logo" alt="地平线">
+        </a>
         <a href="https://www.antgroup.com/" class="partner-card" target="_blank">
             <img src="/assets/logo/ant.svg" class="partner-logo" alt="蚂蚁集团">
         </a>
         <a href="https://dh.geely.com/Home" class="partner-card" target="_blank">
             <img src="/assets/logo/geely.svg" class="partner-logo" alt="吉利汽车">
         </a>
-        <a href="https://www.horizon.auto/about" class="partner-card" target="_blank">
-            <img src="/assets/logo/hr.svg" class="partner-logo" alt="地平线">
-        </a>
-        <a href="https://www.huawei.com/cn/" class="partner-card" target="_blank">
-            <img src="/assets/logo/huawei.svg" class="partner-logo" alt="华为">
+         <a href="https://www.zeekrlife.com/home" class="partner-card" target="_blank">
+            <img src="/assets/logo/zeekr.svg" class="partner-logo" alt="极氪">
         </a>
         <a href="https://www.xiaopeng.com/" class="partner-card" target="_blank">
             <img src="/assets/logo/xp.svg" class="partner-logo" alt="小鹏汽车">
-        </a>
-         <a href="https://www.zeekrlife.com/home" class="partner-card" target="_blank">
-            <img src="/assets/logo/zeekr.svg" class="partner-logo" alt="极氪">
         </a>
     </div>
 </div>

@@ -159,13 +159,13 @@ lang: en
 ### Master's Graduates
 
 * **Zhiyuan Chen**
-  * **Academic Achievements**: Published 1 first-author CCF-A conference paper; 2 granted Chinese patents, and 2 patents under substantive examination.
-  * **Honors & Awards**: Xiaomi Scholarship (Special Award); Third Prize, The 3rd NVDB-CAVD Cup Automotive Information Security Championship.
+  * **Academic Achievements**: Published 1 first-author CCF-A conference paper; 2 granted Chinese patents, and 2 patents under substantive examination
+  * **Honors & Awards**: Xiaomi Scholarship (Special Award); Third Prize, The 3rd NVDB-CAVD Cup Automotive Information Security Championship
   * **Destination**: Huawei HiSilicon
   * **Graduation Date**: March 2025
 
 * **Hongyi Guo**
-  * **Academic Achievements**: Published 1 first-author CCF-C conference paper; 2 Chinese patents under substantive examination.
-  * **Honors & Awards**: Second Prize / Third Prize, The 2nd / 3rd NVDB-CAVD Cup Automotive Information Security Championship.
+  * **Academic Achievements**: Published 1 first-author CCF-C conference paper; 2 Chinese patents under substantive examination
+  * **Honors & Awards**: Second Prize / Third Prize, The 2nd / 3rd NVDB-CAVD Cup Automotive Information Security Championship
   * **Destination**: Shanghai Airport Authority
   * **Graduation Date**: March 2025
