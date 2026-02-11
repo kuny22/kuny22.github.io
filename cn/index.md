@@ -34,39 +34,52 @@ lang: cn
 - **智能网联车安全**：智能车漏洞挖掘与入侵检测、智驾模型与智能车AI安全
 
 ## 学习经历
-
-<div class="resume-section">
-    <div class="resume-item">
+<ul class="resume-list">
+    <li class="resume-item">
         <div class="resume-date">2015.08 - 2018.05</div>
-        <div class="resume-content">
-            <div class="resume-title" style="margin-left: 12px">美国佛罗里达大学 (University of Florida), 电子与计算机工程专业, 博士</div>
-            <div class="resume-sub">导师：Mark M. Tehranipoor (讲席教授, IEEE/ACM/NAI Fellow, 现任UF ECE系主任)</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
+                美国佛罗里达大学 (University of Florida), 电子与计算机工程专业, 博士
+            </div>
+            <div class="resume-sub">
+                导师：Mark M. Tehranipoor (讲席教授, IEEE/ACM/NAI Fellow, 现任UF ECE系主任)
+            </div>
         </div>
-    </div>
-    <div class="resume-item">
+    </li>
+    <li class="resume-item">
         <div class="resume-date">2012.08 - 2015.08</div>
-        <div class="resume-content">
-            <div class="resume-title" style="margin-left: 12px">美国康涅狄格大学 (University of Connecticut), 电子工程专业, 硕士</div>
-            <div class="resume-sub">导师：Mark M. Tehranipoor (讲席教授, IEEE/ACM/NAI Fellow, 现任UF ECE系主任)</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
+                美国康涅狄格大学 (University of Connecticut), 电子工程专业, 硕士
+            </div>
+            <div class="resume-sub">
+                导师：Mark M. Tehranipoor (讲席教授, IEEE/ACM/NAI Fellow, 现任UF ECE系主任)
+            </div>
         </div>
-    </div>
-    <div class="resume-item">
+    </li>
+    <li class="resume-item">
         <div class="resume-date">2009.09 - 2012.07</div>
-        <div class="resume-content">
-            <div class="resume-title" style="margin-left: 12px">中国科学院微电子研究所, 电子与通信工程专业, 硕士</div>
-            <div class="resume-sub">导师：李志华研究员</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
+                中国科学院微电子研究所, 电子与通信工程专业, 硕士
+            </div>
+            <div class="resume-sub">
+                导师：李志华研究员
+            </div>
         </div>
-    </div>
-    <div class="resume-item">
+    </li>
+    <li class="resume-item">
         <div class="resume-date">2005.09 - 2009.07</div>
-        <div class="resume-content">
-            <div class="resume-title" style="margin-left: 12px">中国科学技术大学, 电子信息科学与技术专业, 本科</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
+                中国科学技术大学, 电子信息科学与技术专业, 本科
+            </div>
         </div>
-    </div>
-</div>
+    </li>
+</ul>
+
 
 ## 工作经历
-
 <ul class="resume-list">
     <li class="resume-item">
         <div class="resume-date">2025.07 - 今</div>

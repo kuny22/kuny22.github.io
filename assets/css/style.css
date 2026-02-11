@@ -437,10 +437,6 @@ li {
     gap: 20px;
     /* 图片和文字之间的距离 */
     background: #fff;
-    /* 可选：给卡片加个白底 */
-    /* border: 1px solid #eee; 可选：加个淡淡的边框 */
-    /* padding: 15px;          可选：内边距 */
-    /* border-radius: 12px;    可选：卡片本身的圆角 */
 }
 
 /* 3. 照片样式：参考图中的圆角矩形 */
