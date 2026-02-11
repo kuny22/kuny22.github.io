@@ -41,7 +41,7 @@ lang: en
     <li class="resume-item">
         <div class="resume-date">2015.08-2018.05</div>
         <div class="resume-detail">
-            <div style="font-size: 16px; color: #222; margin-left: 10px">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
                 University of Florida, Electrical and Computer Engineering, Doctor of Philosophy
             </div>
             <div class="resume-sub">
@@ -52,7 +52,7 @@ lang: en
     <li class="resume-item">
         <div class="resume-date">2012.08-2015.08</div>
         <div class="resume-detail">
-            <div style="font-size: 16px; color: #222; margin-left: 10px">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
                 University of Connecticut, Electrical Engineering, Master of Science
             </div>
             <div class="resume-sub">
@@ -63,7 +63,7 @@ lang: en
     <li class="resume-item">
         <div class="resume-date">2009.09-2012.07</div>
         <div class="resume-detail">
-            <div style="font-size: 16px; color: #222; margin-left: 10px">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
                 Institute of Microelectronics of Chinese Academy of Sciences, Electronics and Communications Engineering, Master of Engineering
             </div>
             <div class="resume-sub">
@@ -74,7 +74,7 @@ lang: en
     <li class="resume-item">
         <div class="resume-date">2005.09-2009.07</div>
         <div class="resume-detail">
-            <div style="font-size: 16px; color: #222; margin-left: 10px">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
                 University of Science and Technology of China, Electronic Information Science and Technology, Bachelor of Natural Science
             </div>
             </div>
@@ -86,7 +86,7 @@ lang: en
     <li class="resume-item">
         <div class="resume-date">2025.07-present</div>
         <div class="resume-detail">
-            <div style="font-size: 16px; color: #222; margin-left: 10px">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
                 Associate Dean of Hangzhou High-tech Zone (Binjiang) Blockchain and Data Security Research Institute
             </div>
         </div>
@@ -94,7 +94,7 @@ lang: en
     <li class="resume-item">
         <div class="resume-date">2022.03-present</div>
         <div class="resume-detail">
-            <div style="font-size: 16px; color: #222; margin-left: 10px">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
                 Zhejiang University, ZJU100 Young Professor
             </div>
         </div>
@@ -102,7 +102,7 @@ lang: en
     <li class="resume-item">
         <div class="resume-date">2018.05-2022.01</div>
         <div class="resume-detail">
-            <div style="font-size: 16px; color: #222; margin-left: 10px">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
                 NVIDIA Corporation, Sr. Security Architect
             </div>
         </div>
@@ -110,7 +110,7 @@ lang: en
     <li class="resume-item">
         <div class="resume-date">2014.05-2014.08</div>
         <div class="resume-detail">
-            <div style="font-size: 16px; color: #222; margin-left: 10px">
+            <div style="font-size: 16px; color: #222; margin-left: 12px">
                 Comcast Corporation, Hardware Security Engineering Intern
             </div>
         </div>
