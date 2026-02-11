@@ -32,14 +32,14 @@ lang: en
     </div>
 </div>
 ## Research Interests
-- Chip Security: Chip Security Architecture, RISC-V Processor Security, Trusted Execution Environment
-- High-Performance Computing: Cryptographic Operation Acceleration, AI Computing Acceleration
-- Intelligent Connected Vehicle Security: Intelligent Vehicle Vulnerability Mining and Intrusion Detection, Intelligent Driving Models and Intelligent Vehicle AI Security
+- **Chip Security**: Chip Security Architecture, RISC-V Processor Security, Trusted Execution Environment
+- **High-Performance Computing**: Cryptographic Operation Acceleration, AI Computing Acceleration
+- **Intelligent Connected Vehicle Security**: Intelligent Vehicle Vulnerability Mining and Intrusion Detection, Intelligent Driving Models and Intelligent Vehicle AI Security
 
 <h2>Education</h2>
 <ul class="resume-list">
     <li class="resume-item">
-        <div class="resume-date">2015.08-2018.05</div>
+        <div class="resume-date">2015.08 - 2018.05</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 12px">
                 University of Florida, Electrical and Computer Engineering, Doctor of Philosophy
@@ -50,7 +50,7 @@ lang: en
         </div>
     </li>
     <li class="resume-item">
-        <div class="resume-date">2012.08-2015.08</div>
+        <div class="resume-date">2012.08 - 2015.08</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 12px">
                 University of Connecticut, Electrical Engineering, Master of Science
@@ -61,7 +61,7 @@ lang: en
         </div>
     </li>
     <li class="resume-item">
-        <div class="resume-date">2009.09-2012.07</div>
+        <div class="resume-date">2009.09 - 2012.07</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 12px">
                 Institute of Microelectronics of Chinese Academy of Sciences, Electronics and Communications Engineering, Master of Engineering
@@ -72,7 +72,7 @@ lang: en
         </div>
     </li>
     <li class="resume-item">
-        <div class="resume-date">2005.09-2009.07</div>
+        <div class="resume-date">2005.09 - 2009.07</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 12px">
                 University of Science and Technology of China, Electronic Information Science and Technology, Bachelor of Natural Science
@@ -84,7 +84,7 @@ lang: en
 ## Work Experience
 <ul class="resume-list">
     <li class="resume-item">
-        <div class="resume-date">2025.07-present</div>
+        <div class="resume-date">2025.07 - present</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 12px">
                 Associate Dean of Hangzhou High-tech Zone (Binjiang) Blockchain and Data Security Research Institute
@@ -92,7 +92,7 @@ lang: en
         </div>
     </li>
     <li class="resume-item">
-        <div class="resume-date">2022.03-present</div>
+        <div class="resume-date">2022.03 - present</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 12px">
                 Zhejiang University, ZJU100 Young Professor
@@ -100,7 +100,7 @@ lang: en
         </div>
     </li>
     <li class="resume-item">
-        <div class="resume-date">2018.05-2022.01</div>
+        <div class="resume-date">2018.05 - 2022.01</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 12px">
                 NVIDIA Corporation, Sr. Security Architect
@@ -108,7 +108,7 @@ lang: en
         </div>
     </li>
     <li class="resume-item">
-        <div class="resume-date">2014.05-2014.08</div>
+        <div class="resume-date">2014.05 - 2014.08</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 12px">
                 Comcast Corporation, Hardware Security Engineering Intern

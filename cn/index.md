@@ -85,7 +85,7 @@ lang: cn
         </div>
     </li>
     <li class="resume-item">
-        <div class="resume-date">2018.05-2022.01</div>
+        <div class="resume-date">2018.05 - 2022.01</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 12px">
                 美国英伟达公司总部 (NVIDIA Corporation), 高级架构师 (Sr. Architect)
@@ -93,7 +93,7 @@ lang: cn
         </div>
     </li>
     <li class="resume-item">
-        <div class="resume-date">2014.05-2014.08</div>
+        <div class="resume-date">2014.05 - 2014.08</div>
         <div class="resume-detail">
             <div style="font-size: 16px; color: #222; margin-left: 12px">
                 美国康卡斯特公司总部 (Comcast Corporation), 硬件安全工程实习生 (Hardware Security Engineering Intern)
