@@ -39,60 +39,69 @@ lang: cn
     <div class="resume-item">
         <div class="resume-date">2015.08 - 2018.05</div>
         <div class="resume-content">
-            <div class="resume-title">美国佛罗里达大学 (University of Florida), 电子与计算机工程专业, 博士</div>
+            <div class="resume-title" style="margin-left: 12px">美国佛罗里达大学 (University of Florida), 电子与计算机工程专业, 博士</div>
             <div class="resume-sub">导师：Mark M. Tehranipoor (讲席教授, IEEE/ACM/NAI Fellow, 现任UF ECE系主任)</div>
         </div>
     </div>
     <div class="resume-item">
         <div class="resume-date">2012.08 - 2015.08</div>
         <div class="resume-content">
-            <div class="resume-title">美国康涅狄格大学 (University of Connecticut), 电子工程专业, 硕士</div>
+            <div class="resume-title" style="margin-left: 12px">美国康涅狄格大学 (University of Connecticut), 电子工程专业, 硕士</div>
             <div class="resume-sub">导师：Mark M. Tehranipoor (讲席教授, IEEE/ACM/NAI Fellow, 现任UF ECE系主任)</div>
         </div>
     </div>
     <div class="resume-item">
         <div class="resume-date">2009.09 - 2012.07</div>
         <div class="resume-content">
-            <div class="resume-title">中国科学院微电子研究所, 电子与通信工程专业, 硕士</div>
+            <div class="resume-title" style="margin-left: 12px">中国科学院微电子研究所, 电子与通信工程专业, 硕士</div>
             <div class="resume-sub">导师：李志华研究员</div>
         </div>
     </div>
     <div class="resume-item">
         <div class="resume-date">2005.09 - 2009.07</div>
         <div class="resume-content">
-            <div class="resume-title">中国科学技术大学, 电子信息科学与技术专业, 本科</div>
+            <div class="resume-title" style="margin-left: 12px">中国科学技术大学, 电子信息科学与技术专业, 本科</div>
         </div>
     </div>
 </div>
 
 ## 工作经历
 
-<div class="resume-section">
-    <div class="resume-item">
+<ul class="resume-list">
+    <li class="resume-item">
         <div class="resume-date">2025.07 - 今</div>
-        <div class="resume-content">
-            <div class="resume-title">杭州高新区（滨江）区块链与数据安全研究院副院长</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 10px">
+                杭州高新区（滨江）区块链与数据安全研究院副院长
+            </div>
         </div>
-    </div>
-    <div class="resume-item">
+    </li>
+    <li class="resume-item">
         <div class="resume-date">2022.03 - 今</div>
-        <div class="resume-content">
-            <div class="resume-title">浙江大学百人计划研究员</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 10px">
+                浙江大学百人计划研究员
+            </div>
         </div>
-    </div>
-    <div class="resume-item">
-        <div class="resume-date">2018.05 - 2022.01</div>
-        <div class="resume-content">
-            <div class="resume-title">美国英伟达公司总部 (NVIDIA Corporation), 高级架构师 (Sr. Architect)</div>
+    </li>
+    <li class="resume-item">
+        <div class="resume-date">2018.05-2022.01</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 10px">
+                美国英伟达公司总部 (NVIDIA Corporation), 高级架构师 (Sr. Architect)
+            </div>
         </div>
-    </div>
-    <div class="resume-item">
-        <div class="resume-date">2014.05 - 2014.08</div>
-        <div class="resume-content">
-            <div class="resume-title">美国康卡斯特公司总部 (Comcast Corporation), 硬件安全工程实习生 (Hardware Security Engineering Intern)</div>
+    </li>
+    <li class="resume-item">
+        <div class="resume-date">2014.05-2014.08</div>
+        <div class="resume-detail">
+            <div style="font-size: 16px; color: #222; margin-left: 10px">
+                美国康卡斯特公司总部 (Comcast Corporation), 硬件安全工程实习生 (Hardware Security Engineering Intern)
+            </div>
         </div>
-    </div>
-</div>
+    </li>
+</ul>
+
 
 ## 招生
 招收计算机科学与技术/网络空间安全/电子信息(网络与信息安全)专业的研究生(博士/硕士)，同时欢迎优秀的本科生到我的课题组做暑期实习和毕业设计。欢迎对芯片安全、高性能计算和智能网联车安全感兴趣的同学与我联系。优秀的毕业生可推荐到海外知名高校继续深造或业内顶尖科技公司(例如：华为、蚂蚁、英伟达、地平线、吉利等)工作。
