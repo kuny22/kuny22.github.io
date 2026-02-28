@@ -7,7 +7,6 @@ lang: cn
 ## 团队成员
 
 <div class="team-grid">
-    
     <div class="team-member">
         <img src="/assets/images/team/wff.png" class="member-photo" alt="Photo">
         <div class="member-info">
@@ -74,7 +73,7 @@ lang: cn
             </div>
         </div>
     </div>
-    <div class="team-member">
+    <!-- <div class="team-member">
         <img src="/assets/images/team/lby.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">吕不一</div>
@@ -84,7 +83,7 @@ lang: cn
                 智驾安全
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="team-member">
         <img src="/assets/images/team/lzy.png" class="member-photo" alt="Photo">
         <div class="member-info">

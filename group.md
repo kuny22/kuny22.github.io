@@ -65,7 +65,7 @@ lang: en
             </div>
         </div>
     </div>
-    <div class="team-member">
+    <!-- <div class="team-member">
         <img src="/assets/images/team/lby.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">Buyi Lu</div>
@@ -75,7 +75,7 @@ lang: en
                 Intelligent Driving Security
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="team-member">
         <img src="/assets/images/team/lzy.png" class="member-photo" alt="Photo">
         <div class="member-info">
