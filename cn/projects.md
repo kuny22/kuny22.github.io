@@ -54,7 +54,7 @@ lang: cn
             <span class="proj-name">面向隐私计算的软硬件融合安全架构</span>
         </div>
         <div class="proj-meta">
-            项目负责人，<span class="highlight-fund">经费：300万元</span>，2024.01 - 2027.12
+            项目负责人，<span class="highlight-fund">经费：300万元</span>，2024.01 - 2026.12
         </div>
     </li>
     <li>
@@ -72,7 +72,7 @@ lang: cn
             <span class="proj-name">面向车安全的芯片安全架构及车联网虚实一体化仿真平台</span>
         </div>
         <div class="proj-meta">
-            项目负责人，<span class="highlight-fund">经费：48万元</span>，2024.01 - 2027.12
+            项目负责人，<span class="highlight-fund">经费：50.91万元</span>，2024.01 - 2027.12
         </div>
     </li>
     <li>
