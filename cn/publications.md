@@ -179,8 +179,8 @@ lang: cn
 
 <ul class="patent-list">
     <li>
-        <span class="patent-title">基于RISC-V的TEE外设安全扩展系统[简称：SPHERR] V1.0</span>
-        <span class="patent-meta">登记号：2026SR0004099 | 登记日期：2026-1-4</span>
+        <span class="patent-title">基于RISC-V的TEE外设安全扩展系统[简称：SPHERE] V1.0</span>
+        <span class="patent-meta">登记号：2026SR0004099 | 登记日期：2026-01-04</span>
     </li>
     <li>
         <span class="patent-title">面向高实时性需求、低硬件资源的智能车芯片可信执行环境安全系统[简称：FastTEE] V1.0</span>
