@@ -23,11 +23,11 @@ lang: cn
 <ol class="activity-list">
     <li>
         <strong>智能网联汽车安全：体系构建与实践探索</strong>
-        <span class="talk-venue">谈思AutoSec新春沙龙</span>
+        <span class="talk-venue">谈思 AutoSec 新春沙龙</span>
     </li>
     <li>
         <strong>智能网联汽车安全：体系构建与实践探索</strong>
-        <span class="talk-venue">2025 CCF数字交通大会</span>
+        <span class="talk-venue">2025 CCF 数字交通大会</span>
     </li>
     <li>
         <strong>面向智能终端的安全增强关键技术研究</strong>
