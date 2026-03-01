@@ -181,7 +181,7 @@ lang: en
 <ul class="patent-list">
     <li>
         <span class="patent-title">RISC-V-based TEE Peripheral Security Extension System [SPHERR] V1.0</span>
-        <span class="patent-meta">Registration No.: 2026SR0004099 | Registration Date: 20xx-xx-xx</span>
+        <span class="patent-meta">Registration No.: 2026SR0004099 | Registration Date: 2026-1-4</span>
     </li>
     <li>
         <span class="patent-title">Trusted Execution Environment Security System for Intelligent Vehicle Chips Oriented to High Real-Time and Low Resource Requirements [FastTEE] V1.0</span>
