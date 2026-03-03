@@ -7,6 +7,10 @@ lang: en
 ## Papers
 
 ### Conference Papers
+* **[DAC] ISA-PM: A Unified ISA Extension and Microarchitecture Enabling Efficient ECPM in IoT Devices**
+  * Zhaoyuan Li, **Kun Yang***, Kui Ren
+  * *ACM/IEEE Design Automation Conference (DAC)*, 2026.
+
 * **[Inscrypt] LogWhisperer: Multi-log Semantic Similarity Analysis Based Intelligent Vehicle Anomaly Detection Without Log Template**
   * Hongyi Guo, **Kun Yang***, Kui Ren
   * *International Conference on Information Security and Cryptology (Inscrypt)*, 2025.
