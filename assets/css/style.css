@@ -28,13 +28,12 @@ a:hover {
     padding: 0 20px;
 }
 
-/* 左侧边栏 */
+/* 左侧边栏样式 */
 .sidebar {
     width: 140px;
-    /* 窄侧边栏 */
     padding-right: 40px;
     flex-shrink: 0;
-    text-align: right;
+    text-align: center;
     /* 导航文字右对齐 */
 }
 
@@ -81,6 +80,24 @@ a:hover {
 
 .lang-switch a:hover {
     color: #000;
+}
+
+.sidebar-stats {
+    margin-top: 10px;
+    padding: 5px 0;
+}
+
+.stat-item {
+    padding: 2px 0;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: #003f88;
+    margin-bottom: 5px;
+}
+
+.stat-item:last-child {
+    margin-bottom: 0;
 }
 
 /* 右侧内容 */
@@ -595,20 +612,3 @@ li {
     margin-top: 2px;
 }
 
-.sidebar-stats {
-    margin-top: 10px;
-    padding: 5px 0;
-}
-
-.stat-item {
-    padding: 2px 0;
-    text-align: center;
-    font-size: 14px;
-    font-weight: bold;
-    color: #003f88;
-    margin-bottom: 5px;
-}
-
-.stat-item:last-child {
-    margin-bottom: 0;
-}
