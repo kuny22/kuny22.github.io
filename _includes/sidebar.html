@@ -30,4 +30,24 @@
       <li><a href="/teaching.html">Teaching</a></li>
     {% endif %}
   </ul>
+<div class="sidebar-stats">
+    {% if page.lang == 'cn' %}
+      <div class="stat-item">
+          更新时间: <span>{{ site.time | date: "%Y-%m-%d" }}</span>
+      </div>
+      <div class="stat-item">
+          总访问量: <span id="vercount_value_site_pv">获取中...</span>
+      </div>
+    {% else %}
+      <div class="stat-item">
+          Updated: <span>{{ site.time | date: "%Y-%m-%d" }}</span>
+      </div>
+      <div class="stat-item">
+          Total Visits: <span id="vercount_value_site_pv">Counting...</span>
+      </div>
+    {% endif %}
+  </div>
+
 </nav>
+
+<script defer src="https://cn.vercount.one/js"></script>
