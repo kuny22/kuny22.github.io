@@ -22,6 +22,10 @@ lang: cn
 
 <ol class="activity-list">
     <li>
+        <strong>面向智能车的安全芯片设计</strong>
+        <span class="talk-venue">AutoSec 2026中国汽车网络安全及数据安全合规峰会</span>
+    </li>
+    <li>
         <strong>智能网联汽车安全：体系构建与实践探索</strong>
         <span class="talk-venue">谈思AutoSec新春沙龙</span>
     </li>

@@ -60,6 +60,14 @@ lang: en
 
 <ul class="award-list">
     <li>
+        <span class="award-year">2026</span>
+        <span class="award-text">Zhejiang University Graduation Scholarship for Postgraduates</span>
+    </li>
+    <li>
+        <span class="award-year">2025</span>
+        <span class="award-text">"CastNet—2024" Cybersecurity Live-Network Attack-Defense Exercise: Best Attack Team</span>
+    </li>  
+    <li>
         <span class="award-year">2025</span>
         <span class="award-text">Third Prize of the 4th NVDB-CAVD Cup Automotive Information Security Finals</span>
     </li>  

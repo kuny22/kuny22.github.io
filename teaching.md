@@ -19,6 +19,12 @@ lang: en
 
 <ul class="course-list">
     <li>
+        <strong>Hardware Security Fundamentals</strong> (Undergraduate Course)
+        <div class="semester-info">
+            Spring-Summer 2025, Spring-Summer 2026
+        </div>
+    </li>
+    <li>
         <strong>Wireless and IoT Security</strong> (Graduate Course)
         <div class="semester-info">
             Fall-Winter 2024, Fall-Winter 2025
@@ -33,13 +39,13 @@ lang: en
     <li>
         <strong>Frontier Technologies and Research Methodology in Information Security</strong> (Graduate Course)
         <div class="semester-info">
-            Spring-Summer 2023, Spring-Summer 2024, Spring-Summer 2025
+            Spring-Summer 2023, Spring-Summer 2024, Spring-Summer 2025, Spring-Summer 2026
         </div>
     </li>
     <li>
         <strong>Hardware Security and Digital Forensics</strong> (Graduate Course)
         <div class="semester-info">
-            Fall-Winter 2022, Fall-Winter 2023, Fall-Winter 2024, Spring-Summer 2025
+            Fall-Winter 2022, Fall-Winter 2023, Fall-Winter 2024, Spring-Summer 2025, Spring-Summer 2026
         </div>
     </li>
 </ul>

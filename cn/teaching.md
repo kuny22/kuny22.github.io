@@ -19,6 +19,12 @@ lang: cn
 
 <ul class="course-list">
     <li>
+        <strong>硬件安全基础</strong> (本科生课程)
+        <div class="semester-info">
+            2025春夏、2026春夏
+        </div>
+    </li>
+    <li>
         <strong>无线与物联网安全</strong> (研究生课程)
         <div class="semester-info">
             2024秋冬、2025年秋冬
@@ -33,13 +39,13 @@ lang: cn
     <li>
         <strong>信息安全前沿技术和研究方法论</strong> (硕博通用课程)
         <div class="semester-info">
-            2023春夏、2024春夏、2025年春夏
+            2023春夏、2024春夏、2025年春夏、2026年春夏
         </div>
     </li>
     <li>
         <strong>硬件安全和数字取证</strong> (硕博通用课程)
         <div class="semester-info">
-            2022秋冬、2023秋冬、2024年秋冬、2025年春夏
+            2022秋冬、2023秋冬、2024年秋冬、2025年春夏、2026年春夏
         </div>
     </li>
 </ul>

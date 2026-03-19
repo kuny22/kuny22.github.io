@@ -58,6 +58,14 @@ lang: cn
 
 <ul class="award-list">
     <li>
+        <span class="award-year">2026</span>
+        <span class="award-text">浙江大学毕业研究生奖学金</span>
+    </li> 
+    <li>
+        <span class="award-year">2025</span>
+        <span class="award-text">“铸网—2024”网络安全实网攻防演练最佳攻击队伍</span>
+    </li> 
+    <li>
         <span class="award-year">2025</span>
         <span class="award-text">第四届 NVDB-CAVD 杯汽车信息安全年度总决赛三等奖</span>
     </li> 

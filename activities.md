@@ -43,6 +43,10 @@ lang: en
 
 <ol class="activity-list">
     <li>
+        <strong>Security Chip Design for Intelligent Vehicles</strong>
+        <span class="talk-venue">AutoSec 2026 China Automotive Cybersecurity and Data Security Compliance Summit</span>
+    </li>    
+    <li>
         <strong>Intelligent Connected Vehicle Security: System Construction and Practical Exploration</strong>
         <span class="talk-venue">TanSi AutoSec New Year Salon</span>
     </li>    
