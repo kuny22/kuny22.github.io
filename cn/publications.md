@@ -158,6 +158,21 @@ lang: cn
 ### 中国专利
 <ul class="patent-list">
     <li>
+        <span class="patent-title">一种自动驾驶安全评估方法、系统、设备和可读存储介质</span>
+        <span class="patent-authors"><strong>杨坤</strong>，请求不公布姓名，任奎</span>
+        <span class="patent-meta">专利号：ZLxx | 授权公告号：CNxxx | 授权日：2026-xx-xx</span>
+    </li>
+    <li>
+        <span class="patent-title">特征增强处理方法、装置、计算机设备和计算机可读存储介质</span>
+        <span class="patent-authors">陈媛芳，陈林建，罗宇阳，琚佳顺，<strong>杨坤</strong></span>
+        <span class="patent-meta">专利号：ZL202610003602.5 | 授权公告号：CN121459119B | 授权日：2026-03-17</span>
+    </li>
+    <li>
+        <span class="patent-title">基于因果学习的零样本异常检测方法</span>
+        <span class="patent-authors">陈媛芳，琚佳顺，方兴，罗宇阳，<strong>杨坤</strong></span>
+        <span class="patent-meta">专利号：ZL202610013458.3 | 授权公告号：CN121459081B | 授权日：2026-03-17</span>
+    </li>
+    <li>
         <span class="patent-title">分布式TEE系统、基于分布式TEE系统的通信方法</span>
         <span class="patent-authors"><strong>杨坤</strong>，李思思，任奎</span>
         <span class="patent-meta">专利号：ZL202411566653.6 | 授权公告号：CN119728090A | 授权日：2026-01-19</span>

@@ -159,6 +159,21 @@ lang: en
 ### Chinese Patents
 <ul class="patent-list">
     <li>
+        <span class="patent-title">Autonomous Driving Safety Evaluation Method, System, Device and Readable Storage Medium</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Name Withheld by Request, Kui Ren</span>
+        <span class="patent-meta">Chinese Patent Number: ZLxx | Authorization Announcement Number: CNxxx | Granted: 2026-xx-xx</span>
+    </li>
+    <li>
+        <span class="patent-title">Feature Enhancement Processing Method, Apparatus, Computer Device and Computer-Readable Storage Medium</span>
+        <span class="patent-authors">Yuanfang Chen, Linjian Chen, Yuyang Luo, Jiashun Ju, <strong>Kun Yang</strong></span>
+        <span class="patent-meta">Chinese Patent Number: ZL202610003602.5 | Authorization Announcement Number: CN121459119B | Granted: 2026-03-17</span>
+    </li>
+    <li>
+        <span class="patent-title">Zero-Shot Anomaly Detection Method Based on Causal Learning</span>
+        <span class="patent-authors">Yuanfang Chen, Jiashun Ju, Xing Fang, Yuyang Luo, <strong>Kun Yang</strong></span>
+        <span class="patent-meta">Chinese Patent Number: ZL202610013458.3 | Authorization Announcement Number: CN121459081B | Granted: 2026-03-17</span>
+    </li>
+    <li>
         <span class="patent-title"> A High-Throughput Secure Pseudo-Random Number Generator and Method for FPGA</span>
         <span class="patent-authors"><strong>Kun Yang</strong>, Zhiyuan Chen, Xingjian Tian, Kui Ren</span>
         <span class="patent-meta">Chinese Patent Number: ZL202510402023.3 | Authorization Announcement Number: CN119917064B | Granted: 2025-06-27</span>
