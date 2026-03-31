@@ -158,9 +158,14 @@ lang: cn
 ### 中国专利
 <ul class="patent-list">
     <li>
+        <span class="patent-title">控制流完整性加速方法、装置、设备和可读存储介质</span>
+        <span class="patent-authors"><strong>杨坤</strong>，李思思，任奎</span>
+        <span class="patent-meta">专利号：ZL202610077732.3 | 授权公告号：CN121567472A | 授权日：2026-03-27</span>
+    </li>
+    <li>
         <span class="patent-title">一种自动驾驶安全评估方法、系统、设备和可读存储介质</span>
         <span class="patent-authors"><strong>杨坤</strong>，请求不公布姓名，任奎</span>
-        <span class="patent-meta">专利号：ZLxx | 授权公告号：CNxxx | 授权日：2026-xx-xx</span>
+        <span class="patent-meta">专利号：ZL202610025168.0 | 授权公告号：CN121475735A | 授权日：2026-03-20</span>
     </li>
     <li>
         <span class="patent-title">特征增强处理方法、装置、计算机设备和计算机可读存储介质</span>

@@ -159,9 +159,14 @@ lang: en
 ### Chinese Patents
 <ul class="patent-list">
     <li>
-        <span class="patent-title">Autonomous Driving Safety Evaluation Method, System, Device and Readable Storage Medium</span>
-        <span class="patent-authors"><strong>Kun Yang</strong>, Name Withheld by Request, Kui Ren</span>
-        <span class="patent-meta">Chinese Patent Number: ZLxx | Authorization Announcement Number: CNxxx | Granted: 2026-xx-xx</span>
+        <span class="patent-title">Control Flow Integrity Acceleration Method, Apparatus, Device, and Readable Storage Medium</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Sisi Li, Kui Ren</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202610077732.3 | Authorization Announcement Number: CN121567472A | Granted: 2026-03-27</span>
+    </li>
+    <li>
+        <span class="patent-title">An Autonomous Driving Safety Assessment Method, System, Device, and Readable Storage Medium</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Request for Anonymity, Kui Ren</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202610025168.0 | Authorization Announcement Number: CN121475735A | Granted: 2026-03-20</span>
     </li>
     <li>
         <span class="patent-title">Feature Enhancement Processing Method, Apparatus, Computer Device and Computer-Readable Storage Medium</span>
