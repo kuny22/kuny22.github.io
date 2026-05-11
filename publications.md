@@ -11,6 +11,14 @@ lang: en
   * Zhaoyuan Li, **Kun Yang***, Kui Ren
   * *ACM/IEEE Design Automation Conference (DAC)*, 2026.
 
+* **[IWCMC] LiteFusion: Adaptive Lightweight Fusion in Unsupervised Anomaly Localization**
+  * Yajie Zhao; **Kun Yang**; Linjian Chen; Qiang Lin; Peng Ye; Jianhua Lan
+  * *International Wireless Communications and Mobile Computing (IWCMC)*, 2026.
+
+* **[IWCMC] A Hybrid Neuro-Purification Framework Defending Against Backdoor Attacks**
+  * Chenming Xu; Xing Fang; Tim Muller; Xavier Carpent; **Kun Yang**
+  * *International Wireless Communications and Mobile Computing (IWCMC)*, 2026.
+
 * **[Inscrypt] LogWhisperer: Multi-log Semantic Similarity Analysis Based Intelligent Vehicle Anomaly Detection Without Log Template**
   * Hongyi Guo, **Kun Yang***, Kui Ren
   * *International Conference on Information Security and Cryptology (Inscrypt)*, 2025.
@@ -89,6 +97,14 @@ lang: en
 
 ### Journal Papers
 
+* **[TC]  Keystone-Vault: Hardware-Assisted Efficient Intra-Enclave Isolation for RISC-V TEEs**
+  * Tianming Yan; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren
+  * *IEEE Transactions on Computers (TC)*, to appear in 2026.
+
+* **[CED]  FPGA-based Design and Implementation of Security Algorithms for Intelligent Vehicles using RISC-V Architecture**
+  * **Kun Yang***; Zhiyuan Chen; Zhaoyuan Li; Xiangkun Yu; Junhao Chen; Kui Ren
+  * *Computer Engineering and Design*, to be published in Jun 2026.
+
 * **[AES] Research Framework and Anticipated Results of Key Technologies for Distributed Certificate-Less Network Identity Systems**
   * Xiaosong Zhang, Sheng Cao, Tianbo Lu, **Kun Yang**, Xun Gui, Guotao Xie, Weina Niu
   * *Advanced Engineering Sciences*, Volume 57 Issue 3, pp.1-10, May 2025.
@@ -158,6 +174,11 @@ lang: en
 
 ### Chinese Patents
 <ul class="patent-list">
+    <li>
+        <span class="patent-title">Data Encryption Method, Apparatus, Computer Device, and Storage Medium</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Zhaoyuan Li, Kui Ren</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202411865596.1 | Authorization Announcement Number: CN119945661A | Granted: 2026-04-14</span>
+    </li>
     <li>
         <span class="patent-title">Control Flow Integrity Acceleration Method, Apparatus, Device, and Readable Storage Medium</span>
         <span class="patent-authors"><strong>Kun Yang</strong>, Sisi Li, Kui Ren</span>
