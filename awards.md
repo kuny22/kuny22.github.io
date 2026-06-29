@@ -61,6 +61,10 @@ lang: en
 <ul class="award-list">
     <li>
         <span class="award-year">2026</span>
+        <span class="award-text">Zhejiang University Outstanding Graduate Student (University Level Honor)</span>
+    </li>
+    <li>
+        <span class="award-year">2026</span>
         <span class="award-text">Zhejiang University Graduation Scholarship for Postgraduates</span>
     </li>
     <li>

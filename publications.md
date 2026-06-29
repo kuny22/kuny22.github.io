@@ -99,7 +99,7 @@ lang: en
 
 * **[TC]  Keystone-Vault: Hardware-Assisted Efficient Intra-Enclave Isolation for RISC-V TEEs**
   * Tianming Yan; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren
-  * *IEEE Transactions on Computers (TC)*, to appear in 2026.
+  * *IEEE Transactions on Computers (TC)*, DOI: 10.1109/TC.2026.3690648, May 2026.
 
 * **[CED]  FPGA-based Design and Implementation of Security Algorithms for Intelligent Vehicles using RISC-V Architecture**
   * **Kun Yang***; Zhiyuan Chen; Zhaoyuan Li; Xiangkun Yu; Junhao Chen; Kui Ren

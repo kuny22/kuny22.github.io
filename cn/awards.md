@@ -8,6 +8,14 @@ lang: cn
 
 <ul class="award-list">
     <li>
+        <span class="award-year">2026</span>
+        <span class="award-text">第22届国际无线通信与移动计算会议（IWCMC 2026）最佳专题研讨会奖</span>
+    </li>
+    <li>
+        <span class="award-year">2026</span>
+        <span class="award-text">ICML 2026杰出审稿人银奖</span>
+    </li>
+    <li>
         <span class="award-year">2025</span>
         <span class="award-text">第四届 NVDB-CAVD 杯汽车信息安全年度总决赛三等奖</span>
     </li>
@@ -57,6 +65,14 @@ lang: cn
 ## 团队获奖
 
 <ul class="award-list">
+    <li>
+        <span class="award-year">2026</span>
+        <span class="award-text">浙江大学本科优秀毕业论文</span>
+    </li> 
+    <li>
+        <span class="award-year">2026</span>
+        <span class="award-text">浙江大学校级优秀毕业研究生</span>
+    </li> 
     <li>
         <span class="award-year">2026</span>
         <span class="award-text">浙江大学毕业研究生奖学金</span>

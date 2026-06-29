@@ -66,17 +66,6 @@ lang: en
         </div>
     </div>
     <!-- <div class="team-member">
-        <img src="/assets/images/team/lby.png" class="member-photo" alt="Photo">
-        <div class="member-info">
-            <div class="member-name">Buyi Lu</div>
-            <div class="member-role">Ph.D. Student (2026)</div>
-            <div class="member-interest">
-                <span class="interest-label">Research Interests:</span>
-                Intelligent Driving Security
-            </div>
-        </div>
-    </div> -->
-    <div class="team-member">
         <img src="/assets/images/team/lzy.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">Zhaoyuan Li</div>
@@ -97,7 +86,7 @@ lang: en
                 Intrusion Detection, System Security
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="team-member">
         <img src="/assets/images/team/wyp.png" class="member-photo" alt="Photo">
         <div class="member-info">
@@ -159,13 +148,24 @@ lang: en
 ### Master's Graduates
 
 * **Zhiyuan Chen**
-  * **Academic Achievements**: Published 1 first-author CCF-A conference paper; 2 granted Chinese patents, and 2 patents under substantive examination
+  * **Academic Achievements**: Published one CCF-A conference paper as first author and one CCF-C journal paper as co-author. Granted two Chinese patents, with one additional Chinese patent currently under substantive examination.
   * **Honors & Awards**: Xiaomi Scholarship (Special Award); Third Prize, The 3rd NVDB-CAVD Cup Automotive Information Security Championship
   * **Destination**: Huawei HiSilicon
   * **Graduation Date**: March 2025
 
 * **Hongyi Guo**
-  * **Academic Achievements**: Published 1 first-author CCF-C conference paper; 2 Chinese patents under substantive examination
+  * **Academic Achievements**: Published one CCF-C conference paper as first author, with two Chinese patents currently under substantive examination.
   * **Honors & Awards**: Second Prize / Third Prize, The 2nd / 3rd NVDB-CAVD Cup Automotive Information Security Championship
   * **Destination**: Shanghai Airport Authority
   * **Graduation Date**: March 2025
+
+* **Zhaoyuan Li**
+  * **Academic Achievements**: Published one CCF-A conference paper as first author and one CCF-C journal paper as co-author; granted two Chinese patents. Currently, one CCF-A journal paper as first author is under major revision, with four additional Chinese patents under substantive examination.
+  * **Honors & Awards**: Zhejiang University Outstanding Graduate, Zhejiang University Graduate Scholarship
+  * **Destination**: Huawei DataCom
+  * **Graduation Date**: March 2026
+
+* **Sisi Li**
+  * **Academic Achievements**: Granted two Chinese patents and registered one software copyright. Additionally, one CCF-A journal paper as first author is currently under major revision.
+  * **Destination**: Huawei Wireless
+  * **Graduation Date**: March 2026

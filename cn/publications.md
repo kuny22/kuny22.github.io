@@ -84,9 +84,13 @@ lang: cn
 
 ### 国际期刊
 
+* **[CMC-Computers] LaRP-CLIP: Layer-Aware Refinement with Prototype Guidance for Zero-Shot Anomaly Detection**
+  * Xing Fang; Yuanfang Chen; Qiang Lin; **Kun Yang**; Gyu Myoung Lee
+  * to appear in CMC-Computers, Materials & Continua, 2026.
+
 * **[TC] Keystone-Vault: Hardware-Assisted Efficient Intra-Enclave Isolation for RISC-V TEEs**
   *  Tianming Yan; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren
-  * *IEEE Transactions on Computers (TC)*, to appear in 2026.
+  * *IEEE Transactions on Computers (TC)*, DOI: 10.1109/TC.2026.3690648, May 2026.
 
 * **[TC] A Unified and Fully Automated Framework for Wavelet-based Attacks on Random Delay**
   * Qianmei Wu; Fan Zhang; Shize Guo; **Kun Yang***; Haoting Shen

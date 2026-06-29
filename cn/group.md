@@ -23,10 +23,6 @@ lang: cn
         <div class="member-info">
             <div class="member-name">汤雨林</div>
             <div class="member-role">工程师</div>
-            <!-- <div class="member-interest">
-                <span class="interest-label">研究方向：</span><br>
-                大模型安全、自动驾驶系统测试、可解释性分析
-            </div> -->
         </div>
     </div>
     <div class="team-member">
@@ -34,10 +30,6 @@ lang: cn
         <div class="member-info">
             <div class="member-name">傅沈烨</div>
             <div class="member-role">工程师</div>
-            <!-- <div class="member-interest">
-                <span class="interest-label">研究方向：</span><br>
-                大模型安全、自动驾驶系统测试、可解释性分析
-            </div> -->
         </div>
     </div>
     <div class="team-member">
@@ -47,7 +39,7 @@ lang: cn
             <div class="member-role">2023级 博士生</div>
             <div class="member-interest">
                 <span class="interest-label">研究方向：</span><br>
-                大模型推理加速
+                大模型推理加速、系统安全
             </div>
         </div>
     </div>
@@ -69,40 +61,7 @@ lang: cn
             <div class="member-role">2025级 博士生</div>
             <div class="member-interest">
                 <span class="interest-label">研究方向：</span><br>
-                处理器安全、硬件安全
-            </div>
-        </div>
-    </div>
-    <!-- <div class="team-member">
-        <img src="/assets/images/team/lby.png" class="member-photo" alt="Photo">
-        <div class="member-info">
-            <div class="member-name">吕不一</div>
-            <div class="member-role">2026级 博士生</div>
-            <div class="member-interest">
-                <span class="interest-label">研究方向：</span><br>
-                智驾安全
-            </div>
-        </div>
-    </div> -->
-    <div class="team-member">
-        <img src="/assets/images/team/lzy.png" class="member-photo" alt="Photo">
-        <div class="member-info">
-            <div class="member-name">李兆渊</div>
-            <div class="member-role">2023级 硕士生</div>
-            <div class="member-interest">
-                <span class="interest-label">研究方向：</span><br>
-                密码算法加速
-            </div>
-        </div>
-    </div>
-    <div class="team-member">
-        <img src="/assets/images/team/lss.png" class="member-photo" alt="Photo">
-        <div class="member-info">
-            <div class="member-name">李思思</div>
-            <div class="member-role">2023级 硕士生</div>
-            <div class="member-interest">
-                <span class="interest-label">研究方向：</span><br>
-                入侵检测、系统安全
+                处理器安全
             </div>
         </div>
     </div>
@@ -135,7 +94,7 @@ lang: cn
             <div class="member-role">2025级 硕士生</div>
             <div class="member-interest">
                 <span class="interest-label">研究方向：</span><br>
-                智驾安全
+                大模型推理优化
             </div>
         </div>
     </div>
@@ -146,7 +105,7 @@ lang: cn
             <div class="member-role">2026级 硕士生</div>
             <div class="member-interest">
                 <span class="interest-label">研究方向：</span><br>
-                入侵检测
+                入侵检测、自动驾驶安全
             </div>
         </div>
     </div>
@@ -166,13 +125,24 @@ lang: cn
 ## 毕业生
 #### 硕士毕业生
 * **陈祉源**
-  * **学术成果**：发表一作 CCF-A 类会议论文 1 篇；获授权中国专利 2 项，实质审查 2 项
+  * **学术成果**：发表1篇一作CCF-A类会议论文和1篇合作作者CCF-C类期刊论文，获授权2项中国专利，另有1项中国专利进入实审阶段
   * **获奖荣誉**：小米特等奖学金、第三届 NVDB-CAVD 杯汽车信息安全年度总决赛三等奖
   * **毕业去向**：华为海思
   * **毕业时间**：2025年3月
 
 * **郭洪祎**
-  * **学术成果**：发表一作 CCF-C 类会议论文 1 篇；中国专利实质审查 2 项
-  * **获奖荣誉**：第二届/第三届 NVDB-CAVD 杯汽车信息安全年度总决赛二等奖/三等奖
+  * **学术成果**：发表1篇一作CCF-C类会议论文，2项中国专利进入实审阶段
+  * **获奖荣誉**：第二届NVDB-CAVD杯汽车信息安全年度总决赛二等奖，第三届NVDB-CAVD杯汽车信息安全年度总决赛三等奖
   * **毕业去向**：上海机场
   * **毕业时间**：2025年3月
+
+* **李兆渊**
+  * **学术成果**：发表1篇一作CCF-A类会议论文和1篇合作作者CCF-C类期刊论文，获授权2项中国专利，另有1篇一作CCF-A类期刊论文大修审稿中，及4项中国专利进入实审阶段
+  * **获奖荣誉**：浙江大学校级优秀毕业研究生、浙江大学毕业研究生奖学金
+  * **毕业去向**：华为数通
+  * **毕业时间**：2026年3月
+  
+* **李思思**
+  * **学术成果**：获授权2项中国专利，登记1项软件著作权，另有1篇一作CCF-A类期刊论文大修审稿中
+  * **毕业去向**：华为无线
+  * **毕业时间**：2026年3月

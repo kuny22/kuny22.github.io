@@ -8,6 +8,7 @@ lang: en
 
 <ul class="activity-list">
     <li>Member of <strong>ACM SIGSAC China</strong></li>
+    <li><strong>CCF Senior Member</strong></li>
     <li>Executive Member of <strong>CCF Fault-Tolerant Computing Committee</strong></li>
     <li>Executive Member of <strong>Computer Architecture Committee</strong></li>
     <li>Member of <strong>ACM, IEEE, CCF</strong></li>
