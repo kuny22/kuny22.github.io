@@ -109,7 +109,7 @@ lang: en
             </div>
         </div>
     </div>
-    <div class="team-member">
+    <!-- <div class="team-member">
         <img src="/assets/images/team/ytw.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">Tingwang You</div>
@@ -119,7 +119,7 @@ lang: en
                 Intelligent Driving Security
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="team-member">
         <img src="/assets/images/team/jqj.png" class="member-photo" alt="Photo">
         <div class="member-info">
