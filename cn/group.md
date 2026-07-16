@@ -87,7 +87,7 @@ lang: cn
             </div>
         </div>
     </div>
-    <div class="team-member">
+    <!-- <div class="team-member">
         <img src="/assets/images/team/ytw.png" class="member-photo" alt="Photo">
         <div class="member-info">
             <div class="member-name">游廷旺</div>
@@ -97,7 +97,7 @@ lang: cn
                 大模型推理优化
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="team-member">
         <img src="/assets/images/team/jqj.png" class="member-photo" alt="Photo">
         <div class="member-info">
