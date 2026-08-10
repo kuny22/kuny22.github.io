@@ -98,7 +98,7 @@ lang: en
 ### Journal Papers
 * **[TIFS]  CROSS-TEE: A Distributed Trusted Execution Environment Architecture for Cross-Module Automotive Security**
   * Sisi Li; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren;  
-  * *to appear in IEEE Transactions on Information Forensics and Security (TIFS), 2026.
+  * *to appear in IEEE Transactions on Information Forensics and Security (TIFS)*, 2026.
 
 * **[CMC]  LaRP-CLIP: Layer-Aware Refinement with Prototype Guidance for Zero-Shot Anomaly Detection**
   * Xing Fang; Yuanfang Chen; Qiang Lin; **Kun Yang***; Gyu Myoung Lee 
@@ -110,7 +110,7 @@ lang: en
 
 * **[CED]  FPGA-based Design and Implementation of Security Algorithms for Intelligent Vehicles using RISC-V Architecture**
   * **Kun Yang***; Zhiyuan Chen; Zhaoyuan Li; Xiangkun Yu; Junhao Chen; Kui Ren
-  * *Computer Engineering and Design, Volume 47 Issue 6, pp.1513-1522, Jun 2026.
+  * *Computer Engineering and Design*, Volume 47 Issue 6, pp.1513-1522, Jun 2026.
 
 * **[AES] Research Framework and Anticipated Results of Key Technologies for Distributed Certificate-Less Network Identity Systems**
   * Xiaosong Zhang, Sheng Cao, Tianbo Lu, **Kun Yang**, Xun Gui, Guotao Xie, Weina Niu
