@@ -83,10 +83,13 @@ lang: cn
   * *ACM/IEEE Design Automation Conference (DAC)*, 2025.
 
 ### 国际期刊
+* **[TIFS]  CROSS-TEE: A Distributed Trusted Execution Environment Architecture for Cross-Module Automotive Security**
+  * Sisi Li; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren;  
+  * *to appear in IEEE Transactions on Information Forensics and Security (TIFS), 2026.
 
-* **[CMC-Computers] LaRP-CLIP: Layer-Aware Refinement with Prototype Guidance for Zero-Shot Anomaly Detection**
+* **[CMC] LaRP-CLIP: Layer-Aware Refinement with Prototype Guidance for Zero-Shot Anomaly Detection**
   * Xing Fang; Yuanfang Chen; Qiang Lin; **Kun Yang**; Gyu Myoung Lee
-  * to appear in CMC-Computers, Materials & Continua, 2026.
+  * *Computers, Materials & Continua (CMC)*, May 2026.
 
 * **[TC] Keystone-Vault: Hardware-Assisted Efficient Intra-Enclave Isolation for RISC-V TEEs**
   *  Tianming Yan; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren
@@ -174,19 +177,29 @@ lang: cn
 ### 中国专利
 <ul class="patent-list">
     <li>
-        <span class="patent-title">数据加密方法、装置、计算机设备和存储介质</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 李兆渊; 任奎</span>
-        <span class="patent-meta">专利号：ZL202411865596.1 | 授权公告号：CN119945661A | 授权日：2026-04-14</span>
+        <span class="patent-title">一种安全引导启动方法和装置</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎</span>
+        <span class="patent-meta">专利号：ZL202310150459.9 | 授权公告号：CN116340950A | 授权日：2026-06-26</span>
     </li>
     <li>
-        <span class="patent-title">控制流完整性加速方法、装置、设备和可读存储介质</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 李思思; 任奎</span>
-        <span class="patent-meta">专利号：ZL202610077732.3 | 授权公告号：CN121567472A | 授权日：2026-03-27</span>
+        <span class="patent-title">一种固件带外数据存储模式安全评估方法</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎，傅沈烨，汤雨林</span>
+        <span class="patent-meta">专利号：ZL202311650565.X | 授权公告号：CN117648722A | 授权日：2026-06-24</span>
+    </li>
+    <li>
+        <span class="patent-title">数据加密方法、装置、计算机设备和存储介质</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 李兆渊; 任奎</span>
+        <span class="patent-meta">专利号：ZL202411865596.1 | 授权公告号：CN119945661B | 授权日：2026-06-23</span>
     </li>
     <li>
         <span class="patent-title">一种自动驾驶安全评估方法、系统、设备和可读存储介质</span>
         <span class="patent-authors"><strong>杨坤</strong>; 请求不公布姓名; 任奎</span>
-        <span class="patent-meta">专利号：ZL202610025168.0 | 授权公告号：CN121475735A | 授权日：2026-03-20</span>
+        <span class="patent-meta">专利号：ZL202610025168.0 | 授权公告号：CN121475735B | 授权日：2026-06-12</span>
+    </li>
+    <li>
+        <span class="patent-title">控制流完整性加速方法、装置、设备和可读存储介质</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 李思思; 任奎</span>
+        <span class="patent-meta">专利号：ZL202610077732.3 | 授权公告号：CN121567472B | 授权日：2026-05-12</span>
     </li>
     <li>
         <span class="patent-title">特征增强处理方法、装置、计算机设备和计算机可读存储介质</span>
@@ -194,14 +207,14 @@ lang: cn
         <span class="patent-meta">专利号：ZL202610003602.5 | 授权公告号：CN121459119B | 授权日：2026-03-17</span>
     </li>
     <li>
+        <span class="patent-title">分布式TEE系统、基于分布式TEE系统的通信方法</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 李思思; 任奎</span>
+        <span class="patent-meta">专利号：ZL202411566653.6 | 授权公告号：CN119728090B | 授权日：2026-04-07</span>
+    </li>
+    <li>
         <span class="patent-title">基于因果学习的零样本异常检测方法</span>
         <span class="patent-authors">陈媛芳; 琚佳顺; 方兴; 罗宇阳; <strong>杨坤</strong></span>
         <span class="patent-meta">专利号：ZL202610013458.3 | 授权公告号：CN121459081B | 授权日：2026-03-17</span>
-    </li>
-    <li>
-        <span class="patent-title">分布式TEE系统、基于分布式TEE系统的通信方法</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 李思思; 任奎</span>
-        <span class="patent-meta">专利号：ZL202411566653.6 | 授权公告号：CN119728090A | 授权日：2026-01-19</span>
     </li>
     <li>
         <span class="patent-title">基于查找表的模乘器及模乘运算方法</span>

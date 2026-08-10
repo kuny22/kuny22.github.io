@@ -44,6 +44,10 @@ lang: en
 
 <ol class="activity-list">
     <li>
+        <strong>Research on Key Technologies for Intelligent Vehicle Security</strong>
+        <span class="talk-venue">The 6th Yanzhi Automotive Annual Conference</span>
+    </li>  
+    <li>
         <strong>Security Chip Design for Intelligent Vehicles</strong>
         <span class="talk-venue">AutoSec 2026 China Automotive Cybersecurity and Data Security Compliance Summit</span>
     </li>    

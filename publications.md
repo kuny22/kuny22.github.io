@@ -96,6 +96,13 @@ lang: en
   * *IEEE Symposium on Hardware-Oriented Security and Trust (HOST)*, 2016.
 
 ### Journal Papers
+* **[TIFS]  CROSS-TEE: A Distributed Trusted Execution Environment Architecture for Cross-Module Automotive Security**
+  * Sisi Li; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren;  
+  * *to appear in IEEE Transactions on Information Forensics and Security (TIFS), 2026.
+
+* **[CMC]  LaRP-CLIP: Layer-Aware Refinement with Prototype Guidance for Zero-Shot Anomaly Detection**
+  * Xing Fang; Yuanfang Chen; Qiang Lin; **Kun Yang***; Gyu Myoung Lee 
+  * *Computers, Materials & Continua (CMC)*, May 2026.
 
 * **[TC]  Keystone-Vault: Hardware-Assisted Efficient Intra-Enclave Isolation for RISC-V TEEs**
   * Tianming Yan; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren
@@ -103,7 +110,7 @@ lang: en
 
 * **[CED]  FPGA-based Design and Implementation of Security Algorithms for Intelligent Vehicles using RISC-V Architecture**
   * **Kun Yang***; Zhiyuan Chen; Zhaoyuan Li; Xiangkun Yu; Junhao Chen; Kui Ren
-  * *Computer Engineering and Design*, to be published in Jun 2026.
+  * *Computer Engineering and Design, Volume 47 Issue 6, pp.1513-1522, Jun 2026.
 
 * **[AES] Research Framework and Anticipated Results of Key Technologies for Distributed Certificate-Less Network Identity Systems**
   * Xiaosong Zhang, Sheng Cao, Tianbo Lu, **Kun Yang**, Xun Gui, Guotao Xie, Weina Niu
@@ -175,19 +182,34 @@ lang: en
 ### Chinese Patents
 <ul class="patent-list">
     <li>
-        <span class="patent-title">Data Encryption Method, Apparatus, Computer Device, and Storage Medium</span>
-        <span class="patent-authors"><strong>Kun Yang</strong>, Zhaoyuan Li, Kui Ren</span>
-        <span class="patent-meta">Chinese Patent Number: ZL202411865596.1 | Authorization Announcement Number: CN119945661A | Granted: 2026-04-14</span>
+        <span class="patent-title">A Secure Boot Startup Method and Device</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Jingdian Ming; Kui Ren</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202310150459.9 | Authorization Announcement Number: CN116340950A | Granted: 2026-06-26</span>
     </li>
     <li>
-        <span class="patent-title">Control Flow Integrity Acceleration Method, Apparatus, Device, and Readable Storage Medium</span>
-        <span class="patent-authors"><strong>Kun Yang</strong>, Sisi Li, Kui Ren</span>
-        <span class="patent-meta">Chinese Patent Number: ZL202610077732.3 | Authorization Announcement Number: CN121567472A | Granted: 2026-03-27</span>
+        <span class="patent-title">A Method for Evaluating the Security of Out-of-Band Data Storage Modes in Firmware</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Jingdian Ming; Kui Ren; Shenye Fu; Yulin Tang</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202311650565.X | Authorization Announcement Number: CN117648722A | Granted: 2026-06-24</span>
+    </li>
+    <li>
+        <span class="patent-title">Data Encryption Method, Apparatus, Computer Device, and Storage Medium</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Zhaoyuan Li, Kui Ren</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202411865596.1 | Authorization Announcement Number: CN119945661B | Granted: 2026-06-23</span>
     </li>
     <li>
         <span class="patent-title">An Autonomous Driving Safety Assessment Method, System, Device, and Readable Storage Medium</span>
         <span class="patent-authors"><strong>Kun Yang</strong>, Request for Anonymity, Kui Ren</span>
-        <span class="patent-meta">Chinese Patent Number: ZL202610025168.0 | Authorization Announcement Number: CN121475735A | Granted: 2026-03-20</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202610025168.0 | Authorization Announcement Number: CN121475735B | Granted: 2026-06-12</span>
+    </li>
+    <li>
+        <span class="patent-title">Control Flow Integrity Acceleration Method, Apparatus, Device, and Readable Storage Medium</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Sisi Li, Kui Ren</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202610077732.3 | Authorization Announcement Number: CN121567472B | Granted: 2026-05-12</span>
+    </li>
+    <li>
+        <span class="patent-title">Distributed TEE System and Communication Method Based on Distributed TEE System</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Sisi Li, Kui Ren</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202411566653.6 | Authorization Announcement Number: CN119728090B | Granted: 2026-04-07</span>
     </li>
     <li>
         <span class="patent-title">Feature Enhancement Processing Method, Apparatus, Computer Device and Computer-Readable Storage Medium</span>
@@ -198,11 +220,6 @@ lang: en
         <span class="patent-title">Zero-Shot Anomaly Detection Method Based on Causal Learning</span>
         <span class="patent-authors">Yuanfang Chen, Jiashun Ju, Xing Fang, Yuyang Luo, <strong>Kun Yang</strong></span>
         <span class="patent-meta">Chinese Patent Number: ZL202610013458.3 | Authorization Announcement Number: CN121459081B | Granted: 2026-03-17</span>
-    </li>
-    <li>
-        <span class="patent-title">Distributed TEE System and Communication Method Based on Distributed TEE System</span>
-        <span class="patent-authors"><strong>Kun Yang</strong>, Sisi Li, Kui Ren</span>
-        <span class="patent-meta">Chinese Patent Number: ZL202411566653.6 | Authorization Announcement Number: CN119728090A | Granted: 2026-01-19</span>
     </li>
     <li>
         <span class="patent-title">Lookup Table-Based Modular Multiplier and Modular Multiplication Operation Method</span>

@@ -8,6 +8,14 @@ lang: en
 
 <ul class="award-list">
     <li>
+        <span class="award-year">2026</span>
+        <span class="award-text">Best Symposium Award of the 22nd International Wireless Communications & Mobile Computing Conference (IWCMC 2026)</span>
+    </li>
+    <li>
+        <span class="award-year">2026</span>
+        <span class="award-text">ICML 2026 Silver Reviewer Award</span>
+    </li>
+    <li>
         <span class="award-year">2025</span>
         <span class="award-text">Third Prize of the 4th NVDB-CAVD Cup Automotive Information Security Finals</span>
     </li>

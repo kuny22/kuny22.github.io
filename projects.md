@@ -106,4 +106,14 @@ lang: en
             课题负责人，<span class="highlight-fund">经费：XX万元</span>，2026.01 - 2026.08
         </div>
     </li>
+
+    <li>
+        <div class="proj-header">
+            <span class="proj-category">【吉利横向项目】</span>
+            <span class="proj-name">自动驾驶端到端多模态模型的安全研究和应用</span>
+        </div>
+        <div class="proj-meta">
+            课题负责人，<span class="highlight-fund">经费：XX万元</span>，2025.11 - 2026.08
+        </div>
+    </li>
 </ol>
