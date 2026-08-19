@@ -97,8 +97,8 @@ lang: en
 
 ### Journal Papers
 * **[TIFS]  CROSS-TEE: A Distributed Trusted Execution Environment Architecture for Cross-Module Automotive Security**
-  * Sisi Li; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren;  
-  * *to appear in IEEE Transactions on Information Forensics and Security (TIFS)*, 2026.
+  * Sisi Li; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren  
+  * *IEEE Transactions on Information Forensics and Security (TIFS)*, Volume 21, pp.6928-6943, Jul 2026.
 
 * **[CMC]  LaRP-CLIP: Layer-Aware Refinement with Prototype Guidance for Zero-Shot Anomaly Detection**
   * Xing Fang; Yuanfang Chen; Qiang Lin; **Kun Yang***; Gyu Myoung Lee 

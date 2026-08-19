@@ -9,6 +9,14 @@ lang: en
 <ul class="award-list">
     <li>
         <span class="award-year">2026</span>
+        <span class="award-text">DAC 2026 Certificate of Appreciation</span>
+    </li>
+    <li>
+        <span class="award-year">2026</span>
+        <span class="award-text">DAC 2026 Outstanding TPC Member Award</span>
+    </li>
+    <li>
+        <span class="award-year">2026</span>
         <span class="award-text">Best Symposium Award of the 22nd International Wireless Communications & Mobile Computing Conference (IWCMC 2026)</span>
     </li>
     <li>

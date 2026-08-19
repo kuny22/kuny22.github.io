@@ -9,6 +9,14 @@ lang: cn
 <ul class="award-list">
     <li>
         <span class="award-year">2026</span>
+        <span class="award-text">DAC 2026致谢证书</span>
+    </li>
+    <li>
+        <span class="award-year">2026</span>
+        <span class="award-text">DAC 2026杰出技术程序委员会委员奖</span>
+    </li>
+    <li>
+        <span class="award-year">2026</span>
         <span class="award-text">第22届国际无线通信与移动计算会议（IWCMC 2026）最佳专题研讨会奖</span>
     </li>
     <li>
