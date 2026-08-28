@@ -182,14 +182,14 @@ lang: en
 ### Chinese Patents
 <ul class="patent-list">
     <li>
+        <span class="patent-title">A Method for Evaluating the Security of Out-of-Band Data Storage Modes in Firmware</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Jingdian Ming; Kui Ren; Shenye Fu; Yulin Tang;</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202311650565.X | Authorization Announcement Number: CN117648722B | Granted: 2026-07-17</span>
+    </li>
+    <li>
         <span class="patent-title">A Secure Boot Startup Method and Device</span>
         <span class="patent-authors"><strong>Kun Yang</strong>, Jingdian Ming; Kui Ren</span>
         <span class="patent-meta">Chinese Patent Number: ZL202310150459.9 | Authorization Announcement Number: CN116340950A | Granted: 2026-06-26</span>
-    </li>
-    <li>
-        <span class="patent-title">A Method for Evaluating the Security of Out-of-Band Data Storage Modes in Firmware</span>
-        <span class="patent-authors"><strong>Kun Yang</strong>, Jingdian Ming; Kui Ren; Shenye Fu; Yulin Tang</span>
-        <span class="patent-meta">Chinese Patent Number: ZL202311650565.X | Authorization Announcement Number: CN117648722A | Granted: 2026-06-24</span>
     </li>
     <li>
         <span class="patent-title">Data Encryption Method, Apparatus, Computer Device, and Storage Medium</span>

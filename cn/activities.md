@@ -16,7 +16,7 @@ lang: cn
     <li><strong>ITC-Asia 2024 (CCF C 类会议)</strong>，论坛主席</li>
     <li><strong>中国电子学会 2023网络空间安全大会</strong>，论坛主席</li>
     <li><strong>中国密码学会 2022年密码测评学术会议 (Crypto TE 2022)</strong>，论坛主席</li>
-    <li>长期担任 DAC、USENIX VehicleSec 等多个国际会议程序委员会委员及ICML、NeurIPS等顶会审稿人</li>
+    <li>长期担任 AAAI、DAC、USENIX VehicleSec 等多个国际会议程序委员会委员及ICML、NeurIPS等顶会审稿人</li>
 </ul>
 
 ## 邀请报告

@@ -27,6 +27,7 @@ lang: en
 ## Program Committee Membership
 
 <ul class="activity-list">
+    <li>41st AAAI Conference on Artificial Intelligence (AAAI), 2027</li>
     <li>63rd ACM/IEEE The Chips to Systems Conference (DAC), 2026</li>
     <li>4th USENIX Symposium on Vehicle Security and Privacy (VehicleSec’26)</li>
     <li>3rd USENIX Symposium on Vehicle Security and Privacy (VehicleSec’25)</li>

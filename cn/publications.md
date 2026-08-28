@@ -177,14 +177,14 @@ lang: cn
 ### 中国专利
 <ul class="patent-list">
     <li>
+        <span class="patent-title">一种固件带外数据存储模式安全评估方法</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎，傅沈烨，汤雨林</span>
+        <span class="patent-meta">专利号：ZL202311650565.X | 授权公告号：CN117648722B | 授权日：2026-07-17</span>
+    </li>    
+    <li>
         <span class="patent-title">一种安全引导启动方法和装置</span>
         <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎</span>
         <span class="patent-meta">专利号：ZL202310150459.9 | 授权公告号：CN116340950A | 授权日：2026-06-26</span>
-    </li>
-    <li>
-        <span class="patent-title">一种固件带外数据存储模式安全评估方法</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎，傅沈烨，汤雨林</span>
-        <span class="patent-meta">专利号：ZL202311650565.X | 授权公告号：CN117648722A | 授权日：2026-06-24</span>
     </li>
     <li>
         <span class="patent-title">数据加密方法、装置、计算机设备和存储介质</span>
