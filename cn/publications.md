@@ -177,6 +177,11 @@ lang: cn
 ### 中国专利
 <ul class="patent-list">
     <li>
+        <span class="patent-title">针对自动驾驶感知系统的物理对抗样本生成方法</span>
+        <span class="patent-authors">陈媛芳; 陈潇涵; 陈林健; 张明君; <strong>杨坤</strong></span>
+        <span class="patent-meta">专利号：ZL202610957801.X | 授权公告号：CN122493415B | 授权日：2026-08-28</span>
+    </li>
+    <li>
         <span class="patent-title">一种固件带外数据存储模式安全评估方法</span>
         <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎，傅沈烨，汤雨林</span>
         <span class="patent-meta">专利号：ZL202311650565.X | 授权公告号：CN117648722B | 授权日：2026-07-17</span>

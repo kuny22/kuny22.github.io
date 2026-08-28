@@ -182,6 +182,11 @@ lang: en
 ### Chinese Patents
 <ul class="patent-list">
     <li>
+        <span class="patent-title">Method for Generating Physical Adversarial Examples for Autonomous Driving Perception System</span>
+        <span class="patent-authors">Yuanfang Chen, Xiaohan Chen, Linjian Chen, Mingjun Zhang, <strong>Kun Yang</strong></span>
+        <span class="patent-meta">Chinese Patent Number: ZL202610957801.X | Authorization Announcement Number: CN122493415B | Granted: 2026-08-28</span>
+    </li>
+    <li>
         <span class="patent-title">A Method for Evaluating the Security of Out-of-Band Data Storage Modes in Firmware</span>
         <span class="patent-authors"><strong>Kun Yang</strong>, Jingdian Ming; Kui Ren; Shenye Fu; Yulin Tang;</span>
         <span class="patent-meta">Chinese Patent Number: ZL202311650565.X | Authorization Announcement Number: CN117648722B | Granted: 2026-07-17</span>
