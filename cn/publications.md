@@ -177,54 +177,9 @@ lang: cn
 ### 中国专利
 <ul class="patent-list">
     <li>
-        <span class="patent-title">针对自动驾驶感知系统的物理对抗样本生成方法</span>
-        <span class="patent-authors">陈媛芳; 陈潇涵; 陈林健; 张明君; <strong>杨坤</strong></span>
-        <span class="patent-meta">专利号：ZL202610957801.X | 授权公告号：CN122493415B | 授权日：2026-08-28</span>
-    </li>
-    <li>
-        <span class="patent-title">一种固件带外数据存储模式安全评估方法</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎，傅沈烨，汤雨林</span>
-        <span class="patent-meta">专利号：ZL202311650565.X | 授权公告号：CN117648722B | 授权日：2026-07-17</span>
-    </li>    
-    <li>
-        <span class="patent-title">一种安全引导启动方法和装置</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎</span>
-        <span class="patent-meta">专利号：ZL202310150459.9 | 授权公告号：CN116340950A | 授权日：2026-06-26</span>
-    </li>
-    <li>
-        <span class="patent-title">数据加密方法、装置、计算机设备和存储介质</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 李兆渊; 任奎</span>
-        <span class="patent-meta">专利号：ZL202411865596.1 | 授权公告号：CN119945661B | 授权日：2026-06-23</span>
-    </li>
-    <li>
-        <span class="patent-title">一种自动驾驶安全评估方法、系统、设备和可读存储介质</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 请求不公布姓名; 任奎</span>
-        <span class="patent-meta">专利号：ZL202610025168.0 | 授权公告号：CN121475735B | 授权日：2026-06-12</span>
-    </li>
-    <li>
-        <span class="patent-title">控制流完整性加速方法、装置、设备和可读存储介质</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 李思思; 任奎</span>
-        <span class="patent-meta">专利号：ZL202610077732.3 | 授权公告号：CN121567472B | 授权日：2026-05-12</span>
-    </li>
-    <li>
-        <span class="patent-title">特征增强处理方法、装置、计算机设备和计算机可读存储介质</span>
-        <span class="patent-authors">陈媛芳; 陈林建; 罗宇阳; 琚佳顺; <strong>杨坤</strong></span>
-        <span class="patent-meta">专利号：ZL202610003602.5 | 授权公告号：CN121459119B | 授权日：2026-03-17</span>
-    </li>
-    <li>
-        <span class="patent-title">分布式TEE系统、基于分布式TEE系统的通信方法</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 李思思; 任奎</span>
-        <span class="patent-meta">专利号：ZL202411566653.6 | 授权公告号：CN119728090B | 授权日：2026-04-07</span>
-    </li>
-    <li>
-        <span class="patent-title">基于因果学习的零样本异常检测方法</span>
-        <span class="patent-authors">陈媛芳; 琚佳顺; 方兴; 罗宇阳; <strong>杨坤</strong></span>
-        <span class="patent-meta">专利号：ZL202610013458.3 | 授权公告号：CN121459081B | 授权日：2026-03-17</span>
-    </li>
-    <li>
-        <span class="patent-title">基于查找表的模乘器及模乘运算方法</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 李兆渊; 任奎</span>
-        <span class="patent-meta">专利号：ZL202511222332.9 | 授权公告号：CN120723202B | 授权日：2026-01-02</span>
+        <span class="patent-title">一种用于FPGA高吞吐量的安全伪随机数发生器和方法</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 陈祉源; 田行健; 任奎</span>
+        <span class="patent-meta">专利号：ZL202510402023.3 | 授权公告号：CN119917064B | 授权日：2025-06-27</span>
     </li>
     <li>
         <span class="patent-title">一种芯片攻击检测电路</span>
@@ -232,9 +187,59 @@ lang: cn
         <span class="patent-meta">专利号：ZL202310105025.7 | 授权公告号：CN116208314B | 授权日：2025-11-14</span>
     </li>
     <li>
-        <span class="patent-title">一种用于FPGA高吞吐量的安全伪随机数发生器和方法</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 陈祉源; 田行健; 任奎</span>
-        <span class="patent-meta">专利号：ZL202510402023.3 | 授权公告号：CN119917064B | 授权日：2025-06-27</span>
+        <span class="patent-title">基于查找表的模乘器及模乘运算方法</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 李兆渊; 任奎</span>
+        <span class="patent-meta">专利号：ZL202511222332.9 | 授权公告号：CN120723202B | 授权日：2026-01-02</span>
+    </li>
+    <li>
+        <span class="patent-title">特征增强处理方法、装置、计算机设备和计算机可读存储介质</span>
+        <span class="patent-authors">陈媛芳; 陈林建; 罗宇阳; 琚佳顺; <strong>杨坤</strong></span>
+        <span class="patent-meta">专利号：ZL202610003602.5 | 授权公告号：CN121459119B | 授权日：2026-03-17</span>
+    </li>
+    <li>
+        <span class="patent-title">基于因果学习的零样本异常检测方法</span>
+        <span class="patent-authors">陈媛芳; 琚佳顺; 方兴; 罗宇阳; <strong>杨坤</strong></span>
+        <span class="patent-meta">专利号：ZL202610013458.3 | 授权公告号：CN121459081B | 授权日：2026-03-17</span>
+    </li>
+    <li>
+        <span class="patent-title">分布式TEE系统、基于分布式TEE系统的通信方法</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 李思思; 任奎</span>
+        <span class="patent-meta">专利号：ZL202411566653.6 | 授权公告号：CN119728090B | 授权日：2026-04-07</span>
+    </li>
+    <li>
+        <span class="patent-title">控制流完整性加速方法、装置、设备和可读存储介质</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 李思思; 任奎</span>
+        <span class="patent-meta">专利号：ZL202610077732.3 | 授权公告号：CN121567472B | 授权日：2026-05-12</span>
+    </li>
+    <li>
+        <span class="patent-title">一种车载入侵检测的攻击溯源方法、电子设备和程序产品</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 李林涛; 任奎</span>
+        <span class="patent-meta">专利号：ZL202610332746.5 | 授权公告号：CN121567472B | 授权日：2026-05-29</span>
+    </li>
+    <li>
+        <span class="patent-title">一种自动驾驶安全评估方法、系统、设备和可读存储介质</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 王方方; 任奎</span>
+        <span class="patent-meta">专利号：ZL202610025168.0 | 授权公告号：CN121907608B | 授权日：2026-06-12</span>
+    </li>
+    <li>
+        <span class="patent-title">数据加密方法、装置、计算机设备和存储介质</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 李兆渊; 任奎</span>
+        <span class="patent-meta">专利号：ZL202411865596.1 | 授权公告号：CN119945661B | 授权日：2026-06-23</span>
+    </li>
+    <li>
+        <span class="patent-title">一种固件带外数据存储模式安全评估方法</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎，傅沈烨，汤雨林</span>
+        <span class="patent-meta">专利号：ZL202311650565.X | 授权公告号：CN117648722B | 授权日：2026-07-17</span>
+    </li>    
+    <li>
+        <span class="patent-title">驾驶轨迹风险分析方法和装置</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 吕不一; 任奎</span>
+        <span class="patent-meta">专利号：ZL202610942923.1 | 授权公告号：CN122472231A | 授权日：2026-08-19</span>
+    </li>
+    <li>
+        <span class="patent-title">一种安全引导启动方法和装置</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎</span>
+        <span class="patent-meta">专利号：ZL202310150459.9 | 授权公告号：CN116340950B | 授权日：2026-08-25</span>
     </li>
 </ul>
 
