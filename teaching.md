@@ -10,7 +10,7 @@ lang: en
     <li>
         <strong>Computer Organization and Design</strong> (Undergraduate Course)
         <div class="semester-info">
-            Spring-Summer 2024, Fall-Winter 2024, Fall-Winter 2025
+            Spring-Summer 2024, Fall-Winter 2024, Fall-Winter 2025, Fall-Winter 2026
         </div>
     </li>
 </ul>

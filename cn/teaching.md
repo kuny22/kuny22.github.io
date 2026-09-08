@@ -10,7 +10,7 @@ lang: cn
     <li>
         <strong>计算机组成</strong> (本科生课程)
         <div class="semester-info">
-            2024春夏、2024秋冬、2025年秋冬
+            2024春夏、2024秋冬、2025年秋冬、2026秋冬
         </div>
     </li>
 </ul>

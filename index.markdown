@@ -32,9 +32,9 @@ lang: en
     </div>
 </div>
 ## Research Interests
-- **Chip Security**: Chip Security Architecture, RISC-V Processor Security, Trusted Execution Environment
-- **High-Performance Computing**: Cryptographic Operation Acceleration, AI Computing Acceleration
-- **Intelligent Connected Vehicle Security**: Intelligent Vehicle Vulnerability Mining and Intrusion Detection, Intelligent Driving Models and Intelligent Vehicle AI Security
+- **Chip Security**: Secure Chip Architecture, RISC-V Processor Security, Cryptographic Performance and Area Optimization
+- **Large Model Inference Optimization and Security Research**
+- **Intelligent Connected Vehicle Security**: AI-Driven Vulnerability Mining and Compliance Testing, Intrusion Detection and Active Defense, Autonomous Driving Model Security
 
 <h2>Education</h2>
 <ul class="resume-list">
@@ -119,7 +119,7 @@ lang: en
 
 
 ## To Prospective Students
-I always look to recruit and support highly motivated graduate students majoring in electrical engineering or computer sciences. Please feel free to contact me if you are interested in hardware security and SoC/CPU/GPU security architecture. Outstanding graduates will have the chance to be recommended to further their studies overseas at well-known universities or work in top-tier technology companies (e.g., Huawei, Ant Group, NVIDIA, Horizon Robotics, Geely, etc.).
+I always look to recruit and support highly motivated graduate students majoring in electrical engineering or computer sciences. Please feel free to contact me if you are interested in hardware security and SoC/CPU/GPU security architecture. Outstanding graduates will have the chance to be recommended to further their studies overseas at well-known universities or work in top-tier technology companies.
 
 ## Cooperative Organizations
 <div class="partner-section">

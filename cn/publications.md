@@ -83,17 +83,17 @@ lang: cn
   * *ACM/IEEE Design Automation Conference (DAC)*, 2025.
 
 ### 国际期刊
+* **[TC] Keystone-Vault: Hardware-Assisted Efficient Intra-Enclave Isolation for RISC-V TEEs**
+  *  Tianming Yan; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren
+  * *IEEE Transactions on Computers (TC)*, Volume 75 Issue 8, pp.2857-2869, Aug 2026.
+
 * **[TIFS]  CROSS-TEE: A Distributed Trusted Execution Environment Architecture for Cross-Module Automotive Security**
   * Sisi Li; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren  
   * *IEEE Transactions on Information Forensics and Security (TIFS)*, Volume 21, pp.6928-6943, Jul 2026.
 
 * **[CMC] LaRP-CLIP: Layer-Aware Refinement with Prototype Guidance for Zero-Shot Anomaly Detection**
   * Xing Fang; Yuanfang Chen; Qiang Lin; **Kun Yang**; Gyu Myoung Lee
-  * *Computers, Materials & Continua (CMC)*, May 2026.
-
-* **[TC] Keystone-Vault: Hardware-Assisted Efficient Intra-Enclave Isolation for RISC-V TEEs**
-  *  Tianming Yan; **Kun Yang***; Hongliang Tian; Shoumeng Yan; Kui Ren
-  * *IEEE Transactions on Computers (TC)*, DOI: 10.1109/TC.2026.3690648, May 2026.
+  * *Computers, Materials & Continua (CMC)*, Volume 88 Number 3, pp.60, Jul 2026.
 
 * **[TC] A Unified and Fully Automated Framework for Wavelet-based Attacks on Random Delay**
   * Qianmei Wu; Fan Zhang; Shize Guo; **Kun Yang***; Haoting Shen

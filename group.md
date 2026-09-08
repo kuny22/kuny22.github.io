@@ -166,6 +166,6 @@ lang: en
   * **Graduation Date**: March 2026
 
 * **Sisi Li**
-  * **Academic Achievements**: Granted two Chinese patents and registered one software copyright. Additionally, one CCF-A journal paper as first author is currently under major revision.
+  * **Academic Achievements**: Published one CCF-A journal paper as first author. Granted two Chinese patents. Register one software copyright.
   * **Destination**: Huawei Wireless
   * **Graduation Date**: March 2026
