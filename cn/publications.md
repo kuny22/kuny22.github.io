@@ -241,6 +241,16 @@ lang: cn
         <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎</span>
         <span class="patent-meta">专利号：ZL202310150459.9 | 授权公告号：CN116340950B | 授权日：2026-08-25</span>
     </li>
+    <li>
+        <span class="patent-title">针对自动驾驶感知系统的物理对抗样本生成方法</span>
+        <span class="patent-authors">陈媛芳，陈潇涵，陈林健，张明君，<strong>杨坤</strong></span>
+        <span class="patent-meta">专利号：ZL202610957801.X | 授权公告号：CN122493415B | 授权日：2026-08-28</span>
+    </li>
+    <li>
+        <span class="patent-title">支持椭圆曲线点乘的可编程硬件架构</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 李兆渊，任奎</span>
+        <span class="patent-meta">专利号：ZL202611048254.X | 授权公告号：CN122548805A | 授权日：2026-08-31</span>
+    </li>
 </ul>
 
 ## 软著

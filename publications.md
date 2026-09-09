@@ -246,6 +246,16 @@ lang: en
         <span class="patent-authors"><strong>Kun Yang</strong>, Jingdian Ming; Kui Ren</span>
         <span class="patent-meta">Chinese Patent Number: ZL202310150459.9 | Authorization Announcement Number: CN116340950B | Granted: 2026-08-25</span>
     </li>
+    <li>
+        <span class="patent-title">Physical Adversarial Sample Generation Method for Autonomous Driving Perception Systems</span>
+        <span class="patent-authors">Yuanfang Chen; Xiaohan Chen; Linjian Chen; Mingjun Zhang; <strong>Kun Yang</strong></span>
+        <span class="patent-meta">Chinese Patent Number: ZL202610957801.X | Authorization Announcement Number: CN122493415B | Granted: 2026-08-28</span>
+    </li>
+    <li>
+        <span class="patent-title">Programmable Hardware Architecture Supporting Elliptic Curve Point Multiplication</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Zhaoyuan Li; Kui Ren</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202611048254.X | Authorization Announcement Number: CN122548805A | Granted: 2026-08-31</span>
+    </li>
 </ul>
 
 ## Software Copyrights
