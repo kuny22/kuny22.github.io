@@ -45,6 +45,10 @@ lang: en
 
 <ol class="activity-list">
     <li>
+        <strong>Research on Key Technologies for Active Defense and Security Assessment of Intelligent Vehicles</strong>
+        <span class="talk-venue">AutoSec 2026 10th AutoSec China Week</span>
+    </li> 
+    <li>
         <strong>Research on Key Technologies for Intelligent Vehicle Security</strong>
         <span class="talk-venue">The 6th Yanzhi Automotive Annual Conference</span>
     </li>  

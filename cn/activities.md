@@ -23,6 +23,10 @@ lang: cn
 
 <ol class="activity-list">
     <li>
+        <strong>智能车主动防御与安全评估关键技术研究</strong>
+        <span class="talk-venue">AutoSec 2026第十届中国汽车网络安全周</span>
+    </li>
+    <li>
         <strong>智能车安全关键技术研究</strong>
         <span class="talk-venue">第六届焉知汽车年会</span>
     </li>

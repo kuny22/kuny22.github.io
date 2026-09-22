@@ -256,6 +256,11 @@ lang: en
         <span class="patent-authors"><strong>Kun Yang</strong>, Zhaoyuan Li; Kui Ren</span>
         <span class="patent-meta">Chinese Patent Number: ZL202611048254.X | Authorization Announcement Number: CN122548805A | Granted: 2026-08-31</span>
     </li>
+    <li>
+        <span class="patent-title">Method and System for Multi-Dimensional Dynamic Peripheral Security Verification During the Startup Phase of Wireless Communication Devices</span>
+        <span class="patent-authors">Ling Fu; Sisi Li; Mengqi Liu; <strong>Kun Yang</strong>; Fan Wang; Kui Ren; Qi Zhu; Erkang Wei; Yuning Tian; Xuan Han; Tianhao Cao</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202610772429.5 | Authorization Announcement Number: CN122310513B | Granted: 2026-09-18</span>
+    </li>
 </ul>
 
 ## Software Copyrights
