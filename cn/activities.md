@@ -10,6 +10,7 @@ lang: cn
     <li><strong>ACM SIGSAC China</strong>，委员</li>
     <li><strong>CCF容错计算专委</strong>，执行委员</li>
     <li><strong>CCF体系结构专委</strong>，执行委员</li>
+    <li><strong>IEEE高级会员</strong></li>
     <li><strong>CCF高级会员</strong></li>
     <li><strong>Electronics 期刊</strong>，客座编辑 (Guest Editor)</li>
     <li><strong>2025年第七届电路与系统国际会议 (ICCS 2025)</strong>，程序委员会主席</li>

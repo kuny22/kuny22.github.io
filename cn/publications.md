@@ -7,6 +7,10 @@ lang: cn
 ## 论文
 
 ### 国际会议
+* **[NeurIPS] AsdaKV: Attention-Overlap Driven Semantic KV Retrieval for Long-Context LLMs**
+  * Tianming Yan; **Kun Yang***; Kui Ren
+  * *The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2026.
+
 * **[DAC] ISA-PM: A Unified ISA Extension and Microarchitecture Enabling Efficient ECPM in IoT Devices**
   * Zhaoyuan Li; **Kun Yang***; Kui Ren
   * *ACM/IEEE Design Automation Conference (DAC)*, 2026.
