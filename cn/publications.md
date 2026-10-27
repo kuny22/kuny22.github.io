@@ -247,17 +247,17 @@ lang: cn
     </li>
     <li>
         <span class="patent-title">支持椭圆曲线点乘的可编程硬件架构</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 李兆渊，任奎</span>
+        <span class="patent-authors"><strong>杨坤</strong>，李兆渊，任奎</span>
         <span class="patent-meta">专利号：ZL202611048254.X | 授权公告号：CN122548805A | 授权日：2026-08-31</span>
     </li>
     <li>
         <span class="patent-title">无线通信设备启动阶段多维动态外设安全验证方法和系统</span>
-        <span class="patent-authors">傅凌，李思思，刘孟奇， <strong>杨坤</strong>; 王帆，任奎，朱琦，韦尔康，田宇宁，韩璇，曹天浩</span>
+        <span class="patent-authors">傅凌，李思思，刘孟奇， <strong>杨坤</strong>，王帆，任奎，朱琦，韦尔康，田宇宁，韩璇，曹天浩</span>
         <span class="patent-meta">专利号：ZL202610772429.5 | 授权公告号：CN122310513B | 授权日：2026-09-18</span>
     </li>
     <li>
         <span class="patent-title">驾驶轨迹风险分析方法和装置</span>
-        <span class="patent-authors"><strong>杨坤</strong>, 吕不一, 任奎</span>
+        <span class="patent-authors"><strong>杨坤</strong>，吕不一，任奎</span>
         <span class="patent-meta">专利号：ZL202610942923.1 | 授权公告号：CN122472231B | 授权日：2026-10-09</span>
     </li>
     <li>
