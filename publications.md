@@ -241,11 +241,6 @@ lang: en
         <span class="patent-meta">Chinese Patent Number: ZL202311650565.X | Authorization Announcement Number: CN117648722B | Granted: 2026-07-17</span>
     </li>
     <li>
-        <span class="patent-title">Method and Apparatus for Driving Trajectory Risk Analysis</span>
-        <span class="patent-authors"><strong>Kun Yang</strong>, Buyi Lv, Kui Ren</span>
-        <span class="patent-meta">Chinese Patent Number: ZL202610942923.1 | Authorization Announcement Number: CN122472231A | Granted: 2026-08-19</span>
-    </li>
-    <li>
         <span class="patent-title">A Secure Boot Startup Method and Device</span>
         <span class="patent-authors"><strong>Kun Yang</strong>, Jingdian Ming; Kui Ren</span>
         <span class="patent-meta">Chinese Patent Number: ZL202310150459.9 | Authorization Announcement Number: CN116340950B | Granted: 2026-08-25</span>
@@ -264,6 +259,16 @@ lang: en
         <span class="patent-title">Method and System for Multi-Dimensional Dynamic Peripheral Security Verification During the Startup Phase of Wireless Communication Devices</span>
         <span class="patent-authors">Ling Fu; Sisi Li; Mengqi Liu; <strong>Kun Yang</strong>; Fan Wang; Kui Ren; Qi Zhu; Erkang Wei; Yuning Tian; Xuan Han; Tianhao Cao</span>
         <span class="patent-meta">Chinese Patent Number: ZL202610772429.5 | Authorization Announcement Number: CN122310513B | Granted: 2026-09-18</span>
+    </li>
+    <li>
+        <span class="patent-title">Method and Apparatus for Driving Trajectory Risk Analysis</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>, Buyi Lv, Kui Ren</span>
+        <span class="patent-meta">Chinese Patent Number: ZL202610942923.1 | Authorization Announcement Number:  CN122472231B | Granted: 2026-10-09</span>
+    </li>
+    <li>
+        <span class="patent-title">Adversarial Patch Generation Method, Apparatus, Device, and Storage Medium Based on Feature Fragmentation</span>
+        <span class="patent-authors">Yuanfang Chen; Xiaohan Chen; Mengting Zheng; Mingjun Zhang; Linjian Chen; Yuyang Luo; <strong>Kun Yang</strong></span>
+        <span class="patent-meta">Chinese Patent Number: ZL202610925213.8 | Authorization Announcement Number: CN122453954B | Granted: 2026-10-09</span>
     </li>
 </ul>
 

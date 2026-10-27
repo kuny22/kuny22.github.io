@@ -236,11 +236,6 @@ lang: cn
         <span class="patent-meta">专利号：ZL202311650565.X | 授权公告号：CN117648722B | 授权日：2026-07-17</span>
     </li>    
     <li>
-        <span class="patent-title">驾驶轨迹风险分析方法和装置</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 吕不一; 任奎</span>
-        <span class="patent-meta">专利号：ZL202610942923.1 | 授权公告号：CN122472231A | 授权日：2026-08-19</span>
-    </li>
-    <li>
         <span class="patent-title">一种安全引导启动方法和装置</span>
         <span class="patent-authors"><strong>杨坤</strong>; 明经典，任奎</span>
         <span class="patent-meta">专利号：ZL202310150459.9 | 授权公告号：CN116340950B | 授权日：2026-08-25</span>
@@ -259,6 +254,16 @@ lang: cn
         <span class="patent-title">无线通信设备启动阶段多维动态外设安全验证方法和系统</span>
         <span class="patent-authors">傅凌，李思思，刘孟奇， <strong>杨坤</strong>; 王帆，任奎，朱琦，韦尔康，田宇宁，韩璇，曹天浩</span>
         <span class="patent-meta">专利号：ZL202610772429.5 | 授权公告号：CN122310513B | 授权日：2026-09-18</span>
+    </li>
+    <li>
+        <span class="patent-title">驾驶轨迹风险分析方法和装置</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 吕不一; 任奎</span>
+        <span class="patent-meta">专利号：ZL202610942923.1 | 授权公告号：CN122472231B | 授权日：2026-10-09</span>
+    </li>
+    <li>
+        <span class="patent-title">基于特征碎片化的对抗补丁生成方法、装置、设备及存储介质</span>
+        <span class="patent-authors"><strong>杨坤</strong>; 吕不一; 任奎</span>
+        <span class="patent-meta">专利号：ZL202610925213.8 | 授权公告号：CN122453954B | 授权日：2026-10-09</span>
     </li>    
 </ul>
 
