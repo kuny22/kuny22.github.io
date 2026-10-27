@@ -257,12 +257,12 @@ lang: cn
     </li>
     <li>
         <span class="patent-title">驾驶轨迹风险分析方法和装置</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 吕不一; 任奎</span>
+        <span class="patent-authors"><strong>杨坤</strong>, 吕不一, 任奎</span>
         <span class="patent-meta">专利号：ZL202610942923.1 | 授权公告号：CN122472231B | 授权日：2026-10-09</span>
     </li>
     <li>
         <span class="patent-title">基于特征碎片化的对抗补丁生成方法、装置、设备及存储介质</span>
-        <span class="patent-authors"><strong>杨坤</strong>; 吕不一; 任奎</span>
+        <span class="patent-authors">陈媛芳，陈潇涵，郑梦婷，张明君，陈林健，罗宇阳，<strong>杨坤</strong></span>
         <span class="patent-meta">专利号：ZL202610925213.8 | 授权公告号：CN122453954B | 授权日：2026-10-09</span>
     </li>    
 </ul>

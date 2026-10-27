@@ -262,7 +262,7 @@ lang: en
     </li>
     <li>
         <span class="patent-title">Method and Apparatus for Driving Trajectory Risk Analysis</span>
-        <span class="patent-authors"><strong>Kun Yang</strong>, Buyi Lv, Kui Ren</span>
+        <span class="patent-authors"><strong>Kun Yang</strong>; Buyi Lv; Kui Ren</span>
         <span class="patent-meta">Chinese Patent Number: ZL202610942923.1 | Authorization Announcement Number:  CN122472231B | Granted: 2026-10-09</span>
     </li>
     <li>
